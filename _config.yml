@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Rohit Kannan"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Associate at the Wisconsin Institute for Discovery in UW-Madison. Research Focus: Algorithms for data-driven stochastic optimization with application to power systems."
+  bio              : "Post-doc at UW-Madison working on designing algorithms for data-driven stochastic optimization"
   location         : "Madison, WI"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eC9xQAsAAAAJ&hl=en"
   email            : "rohit.kannan@wisc.edu"
-#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rohitkannan/"
+  github           : "rohitkannan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/rohit-kannan/"
+  linkedin         : "rohit-kannan"
   orcid            : "https://orcid.org/0000-0002-7963-7682"
   pinterest        :
   soundcloud       :
