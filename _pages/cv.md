@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 Education
 ======
 * B.Tech. in Chemical Engineering, IIT Madras, 2012
@@ -32,7 +31,7 @@ Work experience
   * Determined effects of oxygen on the cure rate of acrylate polymers through modeling and experiments
   * Conducted statistical analysis to accelerate cell culture media development and improve protein production
   
-* Summer Research Intern in the Laboratory of Computational Systems Biotechnology at EPFL (May to July 2011)
+* Summer Research Intern in the Computational Systems Biotechnology Lab at EPFL (May to July 2011)
   * Analyzed bifurcations in the number of stable steady states in E.coli’s glycolysis pathway
   
 * Math Olympiad Trainer at SMART, India (Aug. 2008 to Apr. 2011)
