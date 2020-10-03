@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* Postdoctoral Associate at UW-Madison (since Jan. 2018)
-  * Affiliated with the Wisconsin Institute for Discovery
+* Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison (since Jan. 2018)
   * Research Focus: Algorithms for data-driven stochastic optimization with application to power systems
   * PI: Prof. James R. Luedtke
 
