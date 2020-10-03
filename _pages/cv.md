@@ -24,18 +24,12 @@ Work experience
   * Advisor: Prof. Paul I. Barton
   
 * Engineering Consultant at Alcon (Oct. to Dec. 2013)
-  * Designed a measure of residual stress in molded intraocular lens wafers using statistical techniques
-  * Used thermodynamic and pharmacokinetic modeling to increase the bioavailability of an opthalmic drug
   
 * Engineering Consultant at Corning Inc. (Aug. to Oct. 2013)
-  * Determined effects of oxygen on the cure rate of acrylate polymers through modeling and experiments
-  * Conducted statistical analysis to accelerate cell culture media development and improve protein production
   
-* Summer Research Intern in the Computational Systems Biotechnology Lab at EPFL (May to July 2011)
-  * Analyzed bifurcations in the number of stable steady states in E.coli’s glycolysis pathway
+* Summer Research Intern at EPFL (May to July 2011)
   
 * Math Olympiad Trainer at SMART, India (Aug. 2008 to Apr. 2011)
-  * Coached around 30 middle and high-school students each year for the Math Olympiad
 
 Publications
 ======
