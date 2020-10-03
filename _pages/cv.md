@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Chemical Engineering, IIT Madras, 2012
+* M.S. in Chemical Engineering Practice, MIT, 2014
+* Ph.D in Chemical Engineering, MIT, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Associate at UW-Madison (since Jan. 2018)
+  * Affiliated with the Wisconsin Institute for Discovery
+  * Research Focus: Algorithms for data-driven stochastic optimization with application to power systems
+  * P.I.: Prof. James R. Luedtke
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant at MIT (Jan. 2013 to Dec. 2017)
+  * Thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs
+  * Advisor: Prof. Paul I. Barton
+  
+* Engineering Consultant at Alcon (Oct. to Dec. 2013)
+  * Designed a measure of residual stress in molded intraocular lens wafers using statistical techniques
+  * Evaluated the efficacy of amorphous dispersions towards increasing the bioavailability of an opthalmic drug using thermodynamic and pharmacokinetic modeling
+  
+* Engineering Consultant at Corning Inc. (Aug. to Oct. 2013)
+  * Determined effects of oxygen on the cure rate of UV-curable acrylate polymers through experiments and first-principles modeling
+  * Conducted statistical analysis to accelerate cell culture media development to enable scale-up and improve protein production efficiency
   
 Skills
 ======
