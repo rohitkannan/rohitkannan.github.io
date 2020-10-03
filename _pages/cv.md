@@ -20,7 +20,7 @@ Work experience
 * Postdoctoral Associate at UW-Madison (since Jan. 2018)
   * Affiliated with the Wisconsin Institute for Discovery
   * Research Focus: Algorithms for data-driven stochastic optimization with application to power systems
-  * P.I.: Prof. James R. Luedtke
+  * PI: Prof. James R. Luedtke
 
 * Graduate Research Assistant at MIT (Jan. 2013 to Dec. 2017)
   * Thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs
