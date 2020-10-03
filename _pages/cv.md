@@ -13,7 +13,7 @@ Education
 ======
 * B.Tech. in Chemical Engineering, IIT Madras, 2012
 * M.S. in Chemical Engineering Practice, MIT, 2014
-* Ph.D in Chemical Engineering, MIT, 2018
+* Ph.D. in Chemical Engineering, MIT, 2018
 
 Work experience
 ======
@@ -27,11 +27,11 @@ Work experience
   
 * Engineering Consultant at Alcon (Oct. to Dec. 2013)
   * Designed a measure of residual stress in molded intraocular lens wafers using statistical techniques
-  * Evaluated the efficacy of amorphous dispersions towards increasing the bioavailability of an opthalmic drug using thermodynamic and pharmacokinetic modeling
+  * Used thermodynamic and pharmacokinetic modeling to increase the bioavailability of an opthalmic drug
   
 * Engineering Consultant at Corning Inc. (Aug. to Oct. 2013)
-  * Determined effects of oxygen on the cure rate of UV-curable acrylate polymers through experiments and first-principles modeling
-  * Conducted statistical analysis to accelerate cell culture media development to enable scale-up and improve protein production efficiency
+  * Determined effects of oxygen on the cure rate of acrylate polymers through modeling and experiments
+  * Conducted statistical analysis to accelerate cell culture media development and improve protein production
   
 Skills
 ======
