@@ -23,11 +23,9 @@ Work experience
   * Thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs
   * Advisor: Prof. Paul I. Barton
   
-* Engineering Consultant at Alcon (Oct. to Dec. 2013)
+* Engineering Consultant at Alcon and Corning Inc. (Fall 2013)
   
-* Engineering Consultant at Corning Inc. (Aug. to Oct. 2013)
-  
-* Summer Research Intern at EPFL (May to July 2011)
+* Research Intern at EPFL (Summer 2011)
   
 * Math Olympiad Trainer at SMART, India (Aug. 2008 to Apr. 2011)
 
