@@ -56,3 +56,6 @@ Service
 * Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
 
 * Organizer of "Math Modeling" and "Online Math Contest", Shaastra, IIT Madras
+
+* Volunteer for the Science Activities team of the National Services Scheme at IIT Madras (Sept. 2008 to May 2009)
+  * Designed and demonstrated science experiments in underprivileged schools 
