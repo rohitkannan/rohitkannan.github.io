@@ -51,7 +51,7 @@ Service
 ======
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
 
-* Invited Reviewer for: Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods & Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
+* Invited Reviewer for Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods & Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
 
 * Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
 
