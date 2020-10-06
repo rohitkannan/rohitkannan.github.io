@@ -13,7 +13,7 @@ Education
 * M.S. in Chemical Engineering Practice, MIT, 2014
 * Ph.D. in Chemical Engineering, MIT, 2018
 
-Work experience
+Experience
 ======
 * Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison (since Jan. 2018)
   * Research Focus: Algorithms for data-driven stochastic optimization with application to power systems
@@ -47,6 +47,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Session Chair, Computational Stochastic Programming, INFORMS 2018
+
+* Invited Reviewer for: Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods & Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
+
+* Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
+
+* Organizer of "Math Modeling" and "Online Math Contest", Shaastra, IIT Madras
