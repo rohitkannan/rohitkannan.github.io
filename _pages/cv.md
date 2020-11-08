@@ -19,7 +19,7 @@ Experience
   * Focus: Algorithms for data-driven optimization under uncertainty with application to power systems
   * PI: Prof. James R. Luedtke
 
-* Graduate Research Assistant at MIT (2013 to 2018)
+* Graduate Research Assistant at MIT, 2013 - 2018
   * Thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs
   * Advisor: Prof. Paul I. Barton
   
