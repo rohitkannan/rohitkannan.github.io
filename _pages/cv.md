@@ -15,18 +15,18 @@ Education
 
 Experience
 ======
-* Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison (since Jan. 2018)
+* Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison (since 2018)
   * Focus: Algorithms for data-driven optimization under uncertainty with application to power systems
   * PI: Prof. James R. Luedtke
 
-* Graduate Research Assistant at MIT (Jan. 2013 to Dec. 2017)
+* Graduate Research Assistant at MIT (2013 to 2018)
   * Thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs
   * Advisor: Prof. Paul I. Barton
   
-* Engineering Consultant at Alcon, Corning Inc. (Fall 2013)
-* Research Intern at EPFL (Summer 2011)
-* Summer Intern at Orchid Chemicals and Pharmaceuticals Ltd. R&D (Summer 2010)
-* Math Olympiad Trainer at SMART, India (Aug. 2008 to Apr. 2011)
+* Engineering Consultant at Alcon, Corning Inc., 2013
+* Summer Research Intern at EPFL, 2011
+* Summer Intern at Orchid Chemicals and Pharmaceuticals Ltd., R&D, 2010
+* Math Olympiad Trainer at SMART, India, 2008 to 2011
 
 Publications
 ======
