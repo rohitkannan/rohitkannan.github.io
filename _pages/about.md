@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 **Research Interests**
+
 I am broadly interested in theory and algorithms for data-driven decision-making under uncertainty with application to energy and chemical process systems. My research interests include approaches for integrating learning and optimization, deterministic global optimization, and the designing scalable methods for large-scale optimization problems.
 
 
 **Recent News:**
+
 **November 2020:** I will be presenting two papers at the virtual *2020 INFORMS Annual Meeting*
 * *Data-driven Sample Average Approximation with Covariate Information* in [Session TD11: Data, Statistics and Learning in Energy System Optimization](https://www.abstractsonline.com/pp8/#!/9022/session/2220) 
 * *Stochastic DC Optimal Power Flow with Reserve Saturation* in [Session ThC38: Optimization in Energy Systems under Uncertainty](https://www.abstractsonline.com/pp8/#!/9022/session/2845) 
