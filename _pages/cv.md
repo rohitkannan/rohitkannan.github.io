@@ -24,9 +24,7 @@ Experience
   * Advisor: Prof. Paul I. Barton
   
 * Engineering Consultant at Alcon and Corning Inc. (Fall 2013)
-  
 * Research Intern at EPFL (Summer 2011)
-  
 * Math Olympiad Trainer at SMART, India (Aug. 2008 to Apr. 2011)
 
 Publications
@@ -50,11 +48,7 @@ Teaching
 Service
 ======
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
-
-* Invited Reviewer for Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods & Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
-
+* Invited Reviewer for Math Programming, Journal of Global Optimization, Journal of Optimization Theory & Applications, Optimization Methods & Software, Computational Optimization & Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
 * Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
-
 * Organizer of "Math Modeling" and "Online Math Contest", Shaastra, IIT Madras
-
-* Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras (Sept. 2008 to May 2009) 
+* Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
