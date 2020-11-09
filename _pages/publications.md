@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p>This is a test edit</p>
+
 **Journal Papers**
 
 1. R. Kannan and J. R. Luedtke. A stochastic approximation method for approximating the efficient 
