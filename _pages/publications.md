@@ -9,7 +9,7 @@ author_profile: true
 
 1. R. Kannan and J. R. Luedtke. A stochastic approximation method for approximating the efficient 
 frontier of chance-constrained nonlinear programs. Accepted for publication in Mathematical Programming Computation. pp. 1-50. 
-<a href = '_data/test.txt' download>[Preprint]</a> [PDF] [Slides] [Poster] [Code]
+<a href = '_data/test.txt' target = "_blank">[Preprint]</a> [PDF] [Slides] [Poster] [Code]
 2. R. Kannan, J. R. Luedtke, and L. A. Roald (2020). Stochastic DC optimal power flow with reserve saturation. Electric Power Systems Research (Proceedings of the XXI Power Systems Computation Conference), pp. 1-9. 
 [Paper] [Proceedings] [PDF] [Slides] [Code]
 3. R. Kannan and P. I. Barton (2018). Convergence-order analysis of branch-and-bound algorithms
