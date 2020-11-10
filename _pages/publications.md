@@ -20,7 +20,7 @@ for constrained problems. Journal of Global Optimization, 71(4), pp. 753-813.
 [Paper] [Proceedings] [PDF] [Slides]
 5. R. Kannan and A. K. Tangirala (2014). Correntropy-based partial directed coherence for testing
 multivariate Granger causality in nonlinear processes. Physical Review E, 89(6), 062144, pp. 1-15.
-[Paper] <a href = "https://rohitkannan.github.io/_data/presentations/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF].</a>
+[Paper] <a href = "https://rohitkannan.github.io/presentations/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF].</a>
 
 **Submitted Papers**
 
