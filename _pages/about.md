@@ -20,7 +20,7 @@ I am broadly interested in theory and algorithms for data-driven decision-making
 
 **October 2020:** Paper on *Stochastic Approximation for Chance-Constrained Nonlinear Programs* has been accepted for publication in *Mathematical Programming Computation*
 
-**September 2020:** I gave a talk to the MCS group at Argonne National Laboratory <a href = "https://rohitkannan.github.io/_data/presentations/Kannan_Argonne_September_2020.pdf" target="_blank">[Slides].</a>
+**September 2020:** I gave a talk to the MCS group at Argonne National Laboratory <a href = "https://rohitkannan.github.io/presentations/Kannan_Argonne_September_2020.pdf" target="_blank">[Slides].</a>
 
 **August 2020:** I presented a poster on Integrated Learning and Optimization at the [*Third Annual Wisconsin Institute for Discovery Symposium*](https://wid.wisc.edu/wid-symposium/)
 
