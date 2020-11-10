@@ -15,8 +15,8 @@ I am broadly interested in theory and algorithms for data-driven decision-making
 **Recent News:**
 
 **November 2020:** I will be presenting two papers at the virtual *2020 INFORMS Annual Meeting*
-* *Data-driven Sample Average Approximation with Covariate Information* in [Session TD11: Data, Statistics and Learning in Energy System Optimization](https://www.abstractsonline.com/pp8/#!/9022/session/2220) 
-* *Stochastic DC Optimal Power Flow with Reserve Saturation* in [Session ThC38: Optimization in Energy Systems under Uncertainty](https://www.abstractsonline.com/pp8/#!/9022/session/2845) 
+* *Data-driven Sample Average Approximation with Covariate Information* in [Session TD11: Data, Statistics and Learning in Energy System Optimization](https://www.abstractsonline.com/pp8/#!/9022/session/2220) <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides].</a>
+* *Stochastic DC Optimal Power Flow with Reserve Saturation* in [Session ThC38: Optimization in Energy Systems under Uncertainty](https://www.abstractsonline.com/pp8/#!/9022/session/2845) <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides].</a>
 
 **October 2020:** Paper on *Stochastic Approximation for Chance-Constrained Nonlinear Programs* has been accepted for publication in *Mathematical Programming Computation*
 
