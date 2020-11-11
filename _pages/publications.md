@@ -14,15 +14,12 @@ frontier of chance-constrained nonlinear programs. Accepted for publication in M
 [Paper] [Proceedings] [PDF] [Slides] [Code]
 3. R. Kannan and P. I. Barton (2018). Convergence-order analysis of branch-and-bound algorithms
 for constrained problems. Journal of Global Optimization, 71(4), pp. 753-813. 
-
 [Preprint] [PDF] [Slides] 
 4. R. Kannan and P. I. Barton (2017). The cluster problem in constrained global optimization. Journal of Global Optimization, 69(3), pp. 629-676.
-
 [Paper] [Proceedings] [PDF] [Slides]
 5. R. Kannan and A. K. Tangirala (2014). Correntropy-based partial directed coherence for testing
 multivariate Granger causality in nonlinear processes. Physical Review E, 89(6), 062144, pp. 1-15.
-
-[Paper] <a href = "https://rohitkannan.github.io/presentations/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF].</a>
+[Paper] <a href = "https://rohitkannan.github.io/papers/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF].</a>
 
 **Submitted Papers**
 
