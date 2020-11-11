@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can download my full CV <a href = "https://rohitkannan.github.io/RohitKannan_CV.pdf" target="_blank">here</a>
+
 Education
 ======
 * B.Tech. in Chemical Engineering, IIT Madras, 2012 (Advisor: Arun K. Tangirala)
