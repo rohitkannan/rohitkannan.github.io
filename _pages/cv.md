@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<p line-height: 5px>
+
 Education
 ======
 * B.Tech. in Chemical Engineering, IIT Madras, 2012 (Advisor: Arun K. Tangirala)
@@ -30,6 +30,6 @@ Service
 * Invited Reviewer for Math Programming, Journal of Global Optimization, Journal of Optimization Theory & Applications, Optimization Methods & Software, Computational Optimization & Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
 * Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
 * Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
-</p>
+
 
 
