@@ -20,16 +20,15 @@ Education
 Experience
 ======
 * Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison (since 2018)
-  * PI: James R. Luedtke
-  * Focus: Algorithms for data-driven optimization under uncertainty with application to power systems
-* Engineering Consultant at Alcon, Corning Inc., 2013
+  * Focus: Data-driven optimization under uncertainty with application to power systems (PI: James R. Luedtke)
+* Engineering Consultant at Alcon and Corning Inc., 2013
 * Summer Research Intern at EPFL, 2011
 * Math Olympiad Trainer at SMART, Chennai, India, 2008 to 2011
 
 Service
 ======
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
-* Invited Reviewer for Math Programming, Journal of Global Optimization, Journal of Optimization Theory & Applications, Optimization Methods & Software, Computational Optimization & Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
+* Invited Reviewer for Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
 * Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
 * Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
 
