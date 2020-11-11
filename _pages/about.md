@@ -9,7 +9,7 @@ redirect_from:
 ---
 **Research Interests**
 
-I am broadly interested in theory and algorithms for data-driven decision-making under uncertainty with application to energy and chemical process systems. My research interests include approaches for integrating learning and optimization, deterministic global optimization, and designing scalable methods for stochastic optimization.
+I am broadly interested in theory and algorithms for **data-driven decision-making under uncertainty** with application to *energy and chemical process systems*. My research interests include approaches for *integrating learning and optimization*, *deterministic global optimization*, and designing *scalable methods for stochastic optimization*.
 
 
 **Recent News:**
