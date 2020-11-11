@@ -39,6 +39,6 @@ covariate information. Submitted to Operations Research, pp. 1-34. <br/>
 
 **Theses**
 
-11. Ph.D. thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
+11. PhD: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
 <a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank">[DSpace@MIT]</a> <a href = "https://rohitkannan.github.io/papers/Kannan_MIT_PhDThesis.pdf" target="_blank">[PDF]</a>
-12. Bachelor's thesis: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.
+12. Bachelor's: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.
