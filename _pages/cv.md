@@ -25,6 +25,17 @@ Experience
 * Summer Research Intern at EPFL, 2011
 * Math Olympiad Trainer at SMART, Chennai, India, 2008 to 2011
 
+Select Honors and Awards
+======
+* Reliance Heat Transfer Pvt. Ltd. Award for academic excellence, IIT Madras 2012
+* Oil and Natural Gas Corporation Scholarship, India, 2012
+* Institute Merit Award, IIT Madras, 2010, 2011
+* Prof. M. Ramanujam Memorial Award, Department of Chemical Engineering, IIT Madras, 2011
+* EPFL, <a href = "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=50015295&origin=4&page=1&q=wise&status=1&subjectGrps" target="_blank">DAAD WISE</a>, and <a href = "https://www.mitacs.ca/en/programs/globalink" target="_blank">MITACS Globalink</a> Summer Fellowships (chose EPFL), 2011
+* First prize in the Math Modeling and Puzzle Championship events, <a href = "http://www.shaastra.org/" target="_blank">Shaastra</a>, IIT Madras, 2011
+* Top 10 Ranks in the Regional Mathematics Olympiad, India, 2004, 2006, & 2008
+* Qualified for the Indian National Informatics and Chemistry Olympiads (top 1%), 2008
+
 Service
 ======
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
