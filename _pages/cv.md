@@ -10,7 +10,7 @@ redirect_from:
 Education
 ======
 * B.Tech. in Chemical Engineering, IIT Madras, 2012 (Advisor: Arun K. Tangirala)
-  * Thesis: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach
+  * Thesis: PDC for nonlinear Granger causality: A generalized correlation function-based approach
 * M.S. in Chemical Engineering Practice, MIT, 2014
 * Ph.D. in Chemical Engineering, MIT, 2018 (Advisor: Paul I. Barton)
   * Thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs
@@ -18,10 +18,11 @@ Education
 Experience
 ======
 * Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison (since 2018)
+  * PI: James R. Luedtke
   * Focus: Algorithms for data-driven optimization under uncertainty with application to power systems
-  * PI: Prof. James R. Luedtke
 * Engineering Consultant at Alcon, Corning Inc., 2013
 * Summer Research Intern at EPFL, 2011
+* Math Olympiad Trainer at SMART, Chennai, India, 2008 to 2011
 
 Service
 ======
