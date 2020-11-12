@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Research Interests**
+Research Interests
+======
 
 I am broadly interested in **data-driven decision-making under uncertainty** with application to *energy and chemical process systems*. My research interests include *integrated machine learning and optimization under uncertainty*, *deterministic global optimization*, and *scalable solution methods for stochastic optimization*.
 
 
-**Recent News:**
+Recent News
+======
 
 **November 2020:** I will be presenting two papers at the virtual 2020 INFORMS Annual Meeting
 * *Data-driven Sample Average Approximation with Covariate Information* in <br/> <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2220" target="_blank">Session TD11</a>: *Data, Statistics and Learning in Energy System Optimization* <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a>
