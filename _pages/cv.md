@@ -11,11 +11,11 @@ You can download my full CV <a href = "https://rohitkannan.github.io/files/Rohit
 
 Education
 ======
-* B.Tech. in Chemical Engineering, IIT Madras, 2012 (Advisor: Arun K. Tangirala)
-  * Thesis: PDC for nonlinear Granger causality: A generalized correlation function-based approach
-* M.S. in Chemical Engineering Practice, MIT, 2014
 * Ph.D. in Chemical Engineering, MIT, 2018 (Advisor: Paul I. Barton)
   * Thesis: Algorithms, analysis and software for the global optimization of two-stage stochastic programs
+* M.S. in Chemical Engineering Practice, MIT, 2014
+* B.Tech. in Chemical Engineering, IIT Madras, 2012 (Advisor: Arun K. Tangirala)
+  * Thesis: PDC for nonlinear Granger causality: A generalized correlation function-based approach
 
 Experience
 ======
