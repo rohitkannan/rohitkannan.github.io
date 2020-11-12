@@ -29,3 +29,5 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 **March 2020:** My work with Jim and Line on *Stochastic DC Optimal Power Flow with Reserve Saturation* was featured on the UW-Madison <a href = "https://www.engr.wisc.edu/news/power-tools-new-math-model-optimizes-energy/" target="_blank">College of Engineering News Website </a>
 
 **February 2020:** I gave a short talk and presented a poster on *Predict, then smart optimize with stochastic programming* at the <a href = "http://www.ipam.ucla.edu/programs/workshops/intersections-between-control-learning-and-optimization/" target="_blank">IPAM 2020 Workshop</a> on Intersections between Control, Learning and Optimization <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a>
+
+You can find older news items [here](https://rohitkannan.github.io/news/)
