@@ -23,22 +23,22 @@ multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6
 
 **Submitted Papers**
 
-6. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
+1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
 covariate information. Submitted to Operations Research, pp. 1-34. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_DDSAA.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a>
-7. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Under Submission to Mathematical Programming, pp. 1-38. <br/>
+2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Under Submission to Mathematical Programming, pp. 1-38. <br/>
 [Preprint] [PDF] 
 
 
 **Working Papers**
 
-8. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. Multi-stage stochastic optimization given time series data.
-9. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs (based on Chapter 4 of my Ph.D. thesis). <br/>
+1. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. Multi-stage stochastic optimization given time series data.
+2. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs. <br/>
 <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a>
-10. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs (based on Chapter 3 of my Ph.D. thesis).
+3. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs.
 
 **Theses**
 
-11. PhD: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
+1. PhD: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
 <a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank">[DSpace@MIT]</a> <a href = "https://rohitkannan.github.io/papers/Kannan_MIT_PhDThesis.pdf" target="_blank">[PDF]</a>
-12. Bachelor's: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.
+2. Bachelor's: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.
