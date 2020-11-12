@@ -11,7 +11,7 @@ Research Interests
 ======
 
 I am broadly interested in **data-driven decision-making under uncertainty** with application to *energy and chemical process systems*. My research interests include *integrated machine learning and optimization under uncertainty*, *deterministic global optimization*, and *scalable solution methods for stochastic optimization*.
-
+<br/>
 
 Recent News
 ======
