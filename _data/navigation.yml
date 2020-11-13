@@ -13,7 +13,11 @@ main:
     url: /teaching/    
 
   - title: "News"
-    url: /news/    
+    url: /news/ 
+    
+  - title: "Projects"
+    url: /projects/    
+
 
 #   - title: "Portfolio"
 #     url: /portfolio/
