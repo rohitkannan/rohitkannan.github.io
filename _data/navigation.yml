@@ -15,8 +15,8 @@ main:
   - title: "News"
     url: /news/ 
     
-  - title: "Projects"
-    url: /projects/    
+#   - title: "Projects"
+#     url: /projects/    
 
 
 #   - title: "Portfolio"
