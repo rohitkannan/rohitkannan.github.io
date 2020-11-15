@@ -7,7 +7,6 @@ author_profile: true
 <html>
 <body>
 <h1>Past projects</h1>
-<div>
     <table style = "border: none;">
       <tr><td colspan = "2" style="border: none;padding-right:40px;vertical-align:bottom;text-align:center;"><p style="font-size:20px;margin-bottom: -15px;"><b>Viability of branch-and-bound (B&B) algorithms</b></p></td></tr>  
         <td style = "border: none;">
@@ -43,9 +42,5 @@ author_profile: true
         </td>
          </tr>
     </table>
-</div>
-
-  
-
-</body>
+    </body>
 </html>
