@@ -10,7 +10,7 @@ author_profile: true
 5. R. Kannan and J. R. Luedtke. A stochastic approximation method for approximating the efficient 
 frontier of chance-constrained nonlinear programs. Accepted for publication in *Mathematical Programming Computation*. pp. 1-50. <br/>
 <a href = "https://arxiv.org/abs/1812.07066" target="_blank"> [Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanLuedtke_MPC_SAforCCP.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_MACSER18_SAforCCP.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_ICERM19_SAforCCP.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/SA-for-CCP" target="_blank">[Code]</a>
-4. R. Kannan, J. R. Luedtke, and L. A. Roald (2020). Stochastic DC optimal power flow with reserve saturation. *Electric Power Systems Research* (proceedings of the XXI *Power Systems Computation Conference*), pp. 1-9. <br/>
+4. R. Kannan, J. R. Luedtke, and L. A. Roald (2020). Stochastic DC optimal power flow with reserve saturation. *Electric Power Systems Research* (special issue for the XXI *Power Systems Computation Conference*), pp. 1-9. <br/>
 <a href = "https://www.sciencedirect.com/science/article/pii/S0378779620303709" target="_blank">[Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanLuedtkeRoald_PSCC_SDCOPF.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a> <a href = "https://github.com/rohitkannan/DCOPF-reserve-saturation" target="_blank">[Code]</a>
 3. R. Kannan and P. I. Barton (2018). Convergence-order analysis of branch-and-bound algorithms
 for constrained problems. *Journal of Global Optimization*, 71(4), pp. 753-813. <br/>
@@ -23,7 +23,7 @@ multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6
 
 **Submitted Papers**
 
-2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. In Submission to *Mathematical Programming*, pp. 1-38. <br/>
+2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Soon to be submitted to *Mathematical Programming*, pp. 1-38. <br/>
 <a href = "https://rohitkannan.github.io/files/paper4.pdf" target="_blank">[PDF]</a> 
 1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
 covariate information. Under Review in *Operations Research*, pp. 1-34. <br/>
