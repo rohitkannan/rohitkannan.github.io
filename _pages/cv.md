@@ -38,7 +38,7 @@ Select Honors and Awards
 Service
 ======
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
-* Invited Reviewer for Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
+* Invited Reviewer for Operations Research, Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
 * Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
 * Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
 
