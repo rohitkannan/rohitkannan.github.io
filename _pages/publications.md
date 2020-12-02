@@ -21,7 +21,7 @@ for constrained problems. *Journal of Global Optimization*, 71(4), pp. 753-813. 
 multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6), 062144, pp. 1-15. <br/>
 <a href = "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.062144" target="_blank"> [Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF]</a>
 
-**Submitted Papers and Preprints**
+**Submitted Papers**
 
 2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Submitted to *Mathematical Programming*, pp. 1-31. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/11/8136.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
