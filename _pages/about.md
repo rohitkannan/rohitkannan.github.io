@@ -28,7 +28,9 @@ Recent News
 
 **August 2020:** I presented a poster on *Integrated Learning and Optimization* at the <a href = "https://wid.wisc.edu/wid-symposium/" target="_blank">Third Annual Wisconsin Institute for Discovery Symposium</a>
 
-**July 2020:** I presented my work to the ANSI group at Los Alamos National Laboratory
+**July 2020:** New work with Guzin and Jim on combining Machine Learning with Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/07/7932.pdf" target="_blank">[PDF]</a>
+
+I presented my work to the ANSI group at Los Alamos National Laboratory
 
 **March 2020:** My work with Jim and Line on *Stochastic DC Optimal Power Flow with Reserve Saturation* was featured on the UW-Madison <a href = "https://www.engr.wisc.edu/news/power-tools-new-math-model-optimizes-energy/" target="_blank">College of Engineering News Website </a>
 
