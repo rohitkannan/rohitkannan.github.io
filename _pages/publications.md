@@ -23,7 +23,7 @@ multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6
 
 **Submitted Papers**
 
-2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Submitted to *Mathematical Programming*, pp. 1-31. <br/>
+2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Under Review in *Mathematical Programming*, pp. 1-31. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/11/8136.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
 1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
 covariate information. Under Review in *Operations Research*, pp. 1-48. <br/>
