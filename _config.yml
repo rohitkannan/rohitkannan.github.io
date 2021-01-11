@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rohit Kannan, Ph.D."
 title_separator          : "-"
 name                     : &name "Rohit Kannan, Ph.D."
-description              : &description "Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison"
+description              : &description "Center for Nonlinear Studies Postdoctoral Fellow at Los Alamos National Laboratory"
 url                      : https://rohitkannan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rohitkannan/rohitkannan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rohit Kannan"
   avatar           : "profile.jpg"
-  bio              : "Post-doc at UW-Madison interested in stochastic and global optimization"
+  bio              : "Post-doc at LANL interested in stochastic and global optimization"
   location         : "Madison, WI"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
