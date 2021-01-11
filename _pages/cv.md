@@ -19,6 +19,7 @@ Education
 
 Experience
 ======
+* Center for Nonlinear Studies Postdoctoral Fellow at Los Alamos National Laboratory (since December 2020)
 * Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison (since 2018)
   * Focus: Data-driven optimization under uncertainty with application to power systems (PI: James R. Luedtke)
 * Engineering Consultant at Alcon and Corning Inc., 2013
@@ -27,6 +28,7 @@ Experience
 
 Select Honors and Awards
 ======
+* Center for Nonlinear Studies Postdoctoral Fellowship, Los Alamos National Laboratory
 * Reliance Heat Transfer Pvt. Ltd. Award for academic excellence, IIT Madras, 2012
 * Oil and Natural Gas Corporation Scholarship, India, 2012
 * Institute Merit Award, IIT Madras, 2010, 2011
