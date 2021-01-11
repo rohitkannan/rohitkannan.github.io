@@ -28,7 +28,7 @@ Experience
 
 Select Honors and Awards
 ======
-* Center for Nonlinear Studies Postdoctoral Fellowship, Los Alamos National Laboratory
+* Center for Nonlinear Studies Postdoctoral Fellowship, Los Alamos National Laboratory, 2020
 * Reliance Heat Transfer Pvt. Ltd. Award for academic excellence, IIT Madras, 2012
 * Oil and Natural Gas Corporation Scholarship, India, 2012
 * Institute Merit Award, IIT Madras, 2010, 2011
