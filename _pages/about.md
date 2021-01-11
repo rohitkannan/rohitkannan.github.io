@@ -16,11 +16,11 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 Recent News
 ======
 
-**January 2021:** New work with Guzin Bayraksan and Jim Luedtke on Heteroscedasticity-Aware Machine Learning Approaches for Contextual Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2021/01/8201.pdf" target="_blank">[PDF]</a>
+**January 2021:** <span style="color: red"><b>New work</b></span> with Guzin Bayraksan and Jim Luedtke on Heteroscedasticity-Aware Machine Learning Approaches for Contextual Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2021/01/8201.pdf" target="_blank">[PDF]</a>
 
 **December 2020:** Excited to announce that I have joined the <a href = "https://lanl-ansi.github.io/" target="_blank">Advanced Network Science Initiative</a> group at Los Alamos National Lab as a <a href = "https://cnls.lanl.gov/External/" target="_blank">Center for Nonlinear Studies</a> Postdoctoral Fellow.
 
-New work with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Distributionally Robust Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/11/8136.pdf" target="_blank">[PDF]</a>
+<span style="color: red"><b>New work</b></span> with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Distributionally Robust Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/11/8136.pdf" target="_blank">[PDF]</a>
 
 **November 2020:** I presented two papers at the virtual 2020 INFORMS Annual Meeting
 * *Data-driven Sample Average Approximation with Covariate Information* in <br/> <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2220" target="_blank">Session TD11</a>: *Data, Statistics and Learning in Energy System Optimization* <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a>
@@ -32,7 +32,7 @@ New work with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with
 
 **August 2020:** I presented a poster on *Integrated Learning and Optimization* at the <a href = "https://wid.wisc.edu/wid-symposium/" target="_blank">Third Annual Wisconsin Institute for Discovery Symposium</a>
 
-**July 2020:** New work with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/07/7932.pdf" target="_blank">[PDF]</a>
+**July 2020:** <span style="color: red"><b>New work</b></span> with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/07/7932.pdf" target="_blank">[PDF]</a>
 
 I presented my work to the ANSI group at Los Alamos National Laboratory
 
