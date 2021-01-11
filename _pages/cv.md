@@ -28,7 +28,7 @@ Experience
 
 Select Honors and Awards
 ======
-* Center for Nonlinear Studies Postdoctoral Fellowship, Los Alamos National Laboratory, 2020
+* <a href = "https://cnls.lanl.gov/External/" target="_blank">Center for Nonlinear Studies</a> Postdoctoral Fellowship, Los Alamos National Laboratory, 2020
 * Reliance Heat Transfer Pvt. Ltd. Award for academic excellence, IIT Madras, 2012
 * Oil and Natural Gas Corporation Scholarship, India, 2012
 * Institute Merit Award, IIT Madras, 2010, 2011
@@ -40,8 +40,8 @@ Select Honors and Awards
 Service
 ======
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
-* Invited Reviewer for Operations Research, Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
-* Organizer of monthly teleconference meetings on optimization under uncertainty (since Nov. 2018)
+* Invited Reviewer for Operations Research, Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Computers & Chemical Engineering, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
+* Organizer of monthly teleconference meetings on optimization under uncertainty (Nov. 2018 to Nov. 2020)
 * Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
 
 
