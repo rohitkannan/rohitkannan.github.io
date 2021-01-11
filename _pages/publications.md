@@ -8,7 +8,7 @@ author_profile: true
 **Journal Papers**
 
 5. R. Kannan and J. R. Luedtke. A stochastic approximation method for approximating the efficient 
-frontier of chance-constrained nonlinear programs. Accepted for publication in *Mathematical Programming Computation*. pp. 1-50. <br/>
+frontier of chance-constrained nonlinear programs. Accepted for publication in *Mathematical Programming Computation*. pp. 1-47. <br/>
 <a href = "https://arxiv.org/abs/1812.07066" target="_blank"> [Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanLuedtke_MPC_SAforCCP.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_MACSER18_SAforCCP.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_ICERM19_SAforCCP.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/SA-for-CCP" target="_blank">[Code]</a>
 4. R. Kannan, J. R. Luedtke, and L. A. Roald (2020). Stochastic DC optimal power flow with reserve saturation. *Electric Power Systems Research* (special issue for the XXI *Power Systems Computation Conference*), pp. 1-9. <br/>
 <a href = "https://www.sciencedirect.com/science/article/pii/S0378779620303709" target="_blank">[Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanLuedtkeRoald_PSCC_SDCOPF.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a> <a href = "https://github.com/rohitkannan/DCOPF-reserve-saturation" target="_blank">[Code]</a>
@@ -21,10 +21,12 @@ for constrained problems. *Journal of Global Optimization*, 71(4), pp. 753-813. 
 multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6), 062144, pp. 1-15. <br/>
 <a href = "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.062144" target="_blank"> [Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF]</a>
 
-**Submitted Papers**
+**Submitted Papers and Preprints**
 
+3. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, pp. 1-15. <br/>
+<a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a>
 2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Under Review in *Mathematical Programming*, pp. 1-31. <br/>
-<a href = "http://www.optimization-online.org/DB_HTML/2020/11/8136.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
+<a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
 1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
 covariate information. Under Review in *Operations Research*, pp. 1-48. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_DDSAA.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a>
