@@ -8,7 +8,7 @@ author_profile: true
 **Journal Papers**
 
 1. R. Kannan and J. R. Luedtke. A stochastic approximation method for approximating the efficient 
-frontier of chance-constrained nonlinear programs. Accepted for publication in *Mathematical Programming Computation*. pp. 1-47. <br/>
+frontier of chance-constrained nonlinear programs. Forthcoming in *Mathematical Programming Computation*. pp. 1-47. <br/>
 <a href = "https://link.springer.com/article/10.1007/s12532-020-00199-y" target="_blank"> [Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanLuedtke_MPC_SAforCCP.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_MACSER18_SAforCCP.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_ICERM19_SAforCCP.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/SA-for-CCP" target="_blank">[Code]</a>
 2. R. Kannan, J. R. Luedtke, and L. A. Roald (2020). Stochastic DC optimal power flow with reserve saturation. *Electric Power Systems Research* (special issue for the XXI *Power Systems Computation Conference*), pp. 1-9. <br/>
 <a href = "https://www.sciencedirect.com/science/article/pii/S0378779620303709" target="_blank">[Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanLuedtkeRoald_PSCC_SDCOPF.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a> <a href = "https://github.com/rohitkannan/DCOPF-reserve-saturation" target="_blank">[Code]</a>
