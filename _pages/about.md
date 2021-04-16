@@ -16,6 +16,12 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 Recent News
 ======
 
+**April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
+
+**March 2021:** I gave two invited talks on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization*: to the ChBE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
+
+**February 2021:** I gave an invited talk on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization* to the SIE Department at the University of Arizona
+
 **January 2021:** <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on Heteroscedasticity-Aware Machine Learning Approaches for Contextual Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2021/01/8201.pdf" target="_blank">[PDF]</a>
 
 **December 2020:** Excited to announce that I have joined the <a href = "https://lanl-ansi.github.io/" target="_blank">Advanced Network Science Initiative</a> group at Los Alamos National Lab as a <a href = "https://cnls.lanl.gov/External/" target="_blank">Center for Nonlinear Studies</a> Postdoctoral Fellow.
@@ -37,7 +43,5 @@ Recent News
 I presented my work to the ANSI group at Los Alamos National Laboratory
 
 **March 2020:** My work with Jim Luedtke and Line Roald on *Stochastic DC Optimal Power Flow with Reserve Saturation* was featured on the UW-Madison <a href = "https://www.engr.wisc.edu/news/power-tools-new-math-model-optimizes-energy/" target="_blank">College of Engineering News Website </a>
-
-**February 2020:** I gave a short talk and presented a poster on *Predict, then smart optimize with stochastic programming* at the <a href = "http://www.ipam.ucla.edu/programs/workshops/intersections-between-control-learning-and-optimization/" target="_blank">IPAM 2020 Workshop</a> on Intersections between Control, Learning and Optimization <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a>
 
 You can find older news items [here](https://rohitkannan.github.io/news/)
