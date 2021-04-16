@@ -7,7 +7,7 @@ author_profile: true
 
 **Journal Papers**
 
-1. R. Kannan and J. R. Luedtke. A stochastic approximation method for approximating the efficient 
+1. R. Kannan and J. R. Luedtke (2021). A stochastic approximation method for approximating the efficient 
 frontier of chance-constrained nonlinear programs. Forthcoming in *Mathematical Programming Computation*. pp. 1-47. <br/>
 <a href = "https://link.springer.com/article/10.1007/s12532-020-00199-y" target="_blank"> [Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanLuedtke_MPC_SAforCCP.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_MACSER18_SAforCCP.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_ICERM19_SAforCCP.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/SA-for-CCP" target="_blank">[Code]</a>
 2. R. Kannan, J. R. Luedtke, and L. A. Roald (2020). Stochastic DC optimal power flow with reserve saturation. *Electric Power Systems Research* (special issue for the XXI *Power Systems Computation Conference*), pp. 1-9. <br/>
@@ -36,9 +36,10 @@ covariate information. Under Review in *Operations Research*, pp. 1-48. <br/>
 **Working Papers**
 
 1. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. Multi-stage stochastic optimization given time series data.
-2. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs. <br/>
+2. A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using decomposition algorithms.
+3. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs. <br/>
 <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a>
-3. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs.
+4. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs.
 
 **Theses**
 
