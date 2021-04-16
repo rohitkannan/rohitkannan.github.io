@@ -20,7 +20,7 @@ Education
 Experience
 ======
 * Center for Nonlinear Studies Postdoctoral Fellow at Los Alamos National Laboratory, 2021 to present
-  * Focus: Machine learning techniques for accelerating global optimization (Mentors: Deepjyoti Deka and Harsha Nagarajan)
+  * Focus: ML techniques for accelerating global optimization (Mentors: Deepjyoti Deka and Harsha Nagarajan)
 * Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison, 2018 to 2020
   * Focus: Data-driven optimization under uncertainty with application to power systems (PI: James R. Luedtke)
 * Engineering Consultant at Alcon and Corning Inc., 2013
