@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-**April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series
+**April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
 
 **March 2021:** I gave two invited talks on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization*: to the ChBE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
 
