@@ -8,7 +8,7 @@ author_profile: true
 
 **March 2021:** I gave two invited talks on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization*: to the ChBE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
 
-**February 2021:** I gave an invited talk on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization* at the SIE Department at the University of Arizona
+**February 2021:** I gave an invited talk on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization* to the SIE Department at the University of Arizona
 
 **January 2021:** New work with Guzin Bayraksan and Jim Luedtke on Heteroscedasticity-Aware Machine Learning Approaches for Contextual Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2021/01/8201.pdf" target="_blank">[PDF]</a>
 
