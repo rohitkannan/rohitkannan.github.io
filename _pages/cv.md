@@ -19,7 +19,7 @@ Education
 
 Experience
 ======
-* Center for Nonlinear Studies Postdoctoral Fellow at Los Alamos National Laboratory (since Dec. 2020)
+* Center for Nonlinear Studies Postdoctoral Fellow at Los Alamos National Laboratory, 2021 to present
 * Postdoctoral Associate at the Wisconsin Institute for Discovery, UW-Madison, 2018 to 2020
   * Focus: Data-driven optimization under uncertainty with application to power systems (PI: James R. Luedtke)
 * Engineering Consultant at Alcon and Corning Inc., 2013
@@ -40,7 +40,7 @@ Select Honors and Awards
 Service
 ======
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
-* Invited Reviewer for Operations Research, Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, Computers & Chemical Engineering, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
+* Invited Reviewer for Operations Research, Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, INFORMS Journal on Optimization, Computers & Chemical Engineering, Industrial & Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
 * Organizer of monthly teleconference meetings on optimization under uncertainty (Nov. 2018 to Nov. 2020)
 * Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
 
