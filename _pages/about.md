@@ -16,7 +16,7 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 Recent News
 ======
 
-**April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
+**April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series
 
 **March 2021:** I gave two invited talks on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization*: to the ChBE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
 
