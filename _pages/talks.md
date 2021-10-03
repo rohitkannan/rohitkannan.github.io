@@ -68,9 +68,7 @@ author_profile: true
 7. R. Kannan and J. R. Luedtke, “Optimizing Uncertain Systems with Reliability Requirements”, Second Annual Wisconsin Institute for Discovery Symposium, University of Wisconsin-Madison, June 2019.
 
 
-<!--
-
-<ul>
+<!-- <ul>
   <li>Residuals-Based Distributionally Robust Optimization with Covariate Information
 <ul>
   <li>Robust Optimization Webinar, April 2021 <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a></li>
@@ -152,6 +150,4 @@ author_profile: true
   
   
   
-  </ul>
-  
--->
+  </ul> -->
