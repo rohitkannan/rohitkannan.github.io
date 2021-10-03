@@ -69,6 +69,7 @@ author_profile: true
 
 
 <!--
+
 <ul>
   <li>Residuals-Based Distributionally Robust Optimization with Covariate Information
 <ul>
@@ -152,4 +153,5 @@ author_profile: true
   
   
   </ul>
+  
 -->
