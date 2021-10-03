@@ -19,7 +19,7 @@ Education
 
 Professional Appointments
 ======
-* Postdoctoral Fellow, Center for Nonlinear Studies and Applied Math & Plasma Physics, LANL, since 2021
+* Postdoctoral Fellow, Center for Nonlinear Studies & Applied Math and Plasma Physics, LANL, since 2021
   * Focus: ML-based techniques for accelerating global optimization
 * Postdoctoral Associate, Wisconsin Institute for Discovery, UW-Madison, 2018 to 2020
   * Focus: Data-driven optimization under uncertainty with application to power systems
@@ -31,7 +31,7 @@ Professional Appointments
 Select Honors and Awards
 ======
 * <a href = "https://cnls.lanl.gov/External/" target="_blank">Center for Nonlinear Studies</a> Postdoctoral Fellowship, Los Alamos National Laboratory, 2020
-* Best Paper in the AdvancesinOptimizationI session, AIChE Annual Meeting, 2015
+* Best Paper in the Advances in Optimization I session, AIChE Annual Meeting, 2015
 * Reliance Heat Transfer Pvt. Ltd. Award for academic excellence, IIT Madras, 2012
 * Oil and Natural Gas Corporation Scholarship, Govt. of India, 2012
 * Institute Merit Award, IIT Madras, 2010, 2011
@@ -47,7 +47,7 @@ Service
   * Petter E. Nordby, “Optimization of flexible renewable energy systems under uncertainty”, Master’s thesis, Dept. of Energy & Process Engineering, NTNU, 2021. Supervisors: Truls Gundersen, Johannes Jäschke, and Avinash S. R. Subramanian
 * Invited Peer-Reviewer for Operations Research, Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, INFORMS Journal on Optimization, Computers and Chemical Engineering, Industrial and Engineering Chemistry Research, American Control Conference, Power Systems Computation Conference
 * Session Chair, Computational Stochastic Programming, INFORMS 2018
-* Organizer of monthly teleconference meetings on optimization under uncertainty (Nov. 2018 to Nov. 2020)
+* Organizer of monthly teleconference meetings on optimization under uncertainty (15 participants) as part of the <a href = "https://www.mcs.anl.gov/MACSER/" target="_blank">DOE MACSER Project</a> (Nov. 2018 to Nov. 2020)
 * Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
 
 
