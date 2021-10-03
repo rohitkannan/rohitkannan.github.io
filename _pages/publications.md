@@ -5,7 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Journal Papers**
+
+**Working**
+
+1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, pp. 1-15. <br/>
+<a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a>.
+2. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. Data-driven multistage stochastic optimization on time series.
+3. R. Kannan, H. Nagarajan, and D. Deka. Stochastic unit commitment with reserve saturation.
+4. R. Kannan, D. Deka, and H. Nagarajan. Accelerating global optimization solvers using machine learning.
+5. E. M. Turan, R. Kannan, and J. Jäschke. Optimization of PID controllers using semi-infinite programming.
+6. A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using decomposition algorithms.
+7. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs. <br/>
+<a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a>
+8. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs.
+
+**Submitted**
+
+1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Under Review in *Mathematical Programming*, pp. 1-31. <br/>
+<a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
+2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
+covariate information. Under Review in *Operations Research*, pp. 1-48. <br/>
+<a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_DDSAA.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a>
+
+**Peer-Reviewed Journals**
 
 1. R. Kannan and J. R. Luedtke (2021). A stochastic approximation method for approximating the efficient 
 frontier of chance-constrained nonlinear programs. Forthcoming in *Mathematical Programming Computation*. pp. 1-47. <br/>
@@ -21,28 +43,13 @@ for constrained problems. *Journal of Global Optimization*, 71(4), pp. 753-813. 
 multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6), 062144, pp. 1-15. <br/>
 <a href = "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.062144" target="_blank"> [Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF]</a>
 
-**Submitted Papers and Preprints**
+**Peer-Reviewed Conferences**
 
-1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, pp. 1-15. <br/>
-<a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a>
-2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Under Review in *Mathematical Programming*, pp. 1-31. <br/>
-<a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
-3. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
-covariate information. Under Review in *Operations Research*, pp. 1-48. <br/>
-<a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_DDSAA.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a>
-
-
-
-**Working Papers**
-
-1. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. Multi-stage stochastic optimization given time series data.
-2. A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using decomposition algorithms.
-3. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs. <br/>
-<a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a>
-4. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs.
+1. R. Kannan and P. I. Barton (2016). The cluster problem in constrained global optimization. Proceedings of the XIII Global Optimization Workshop (GOW’16), pp. 9-12. <br/>
+<a href = "http://repositorium.uminho.pt/bitstream/1822/42944/1/Proceedings%20GOW16.pdf#page=20" target="_blank"> [Conference]</a>
 
 **Theses**
 
-1. PhD: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
+1. Ph.D.: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
 <a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank">[DSpace@MIT]</a> <a href = "https://rohitkannan.github.io/papers/Kannan_MIT_PhDThesis.pdf" target="_blank">[PDF]</a>
-2. Bachelor's: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.
+2. B.Tech.: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.
