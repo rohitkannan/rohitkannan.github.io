@@ -46,15 +46,15 @@ author_profile: true
 
 1. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke, “Data-Driven Multistage Stochastic Optimization on Time Series”, AIChE Annual Meeting, Nov. 2021. Session: Advances in Machine Learning & Intelligent Systems.
 2. R. Kannan, G. Bayraksan, and J. R. Luedtke, “Data-Driven Sample Average Approximation with Covariate Information”, AIChE Annual Meeting, Nov. 2021. Session: Design and Operations Under Uncertainty.
-3. R. Kannan, “Enabling Effective Use of Renewable Energy using Stochastic Optimization”, Science in 3, Los Alamos National Laboratory, July 2021.
-4. R. Kannan, G. Bayraksan, and J. R. Luedtke, “Residuals-Based Distributionally Robust Optimization with Covariate Information”, Robust Optimization Workshop, April 2021. <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
-5. R. Kannan, and P. I. Barton, “The Cluster Problem in Constrained Global Optimization”, AIChE Annual Meeting, Nov. 2016. Session: Advances in Optimization. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE16_ClusterProblem.pdf" target="_blank">[Slides]</a>
-6. R. Kannan, and P. I. Barton, “The Cluster Problem in Constrained Global Optimization”, Thirteenth Global Optimization Workshop, Aug. 2016.
-7. R. Kannan, and P. I. Barton, “Convergence-Order Analysis of Branch-and-Bound Algorithms for Constrained Problems”, AIChE Annual Meeting, Nov. 2015. Session: Advances in Optimization.
-8. P. I. Barton and R. Kannan, “A Decomposition Algorithm for Two-Stage Stochastic Mixed-Integer Nonconvex Programs”, XXII International Symposium on Mathematical Programming (ISMP), July 2015.
-9. R. Kannan, and P. I. Barton, “A Software Framework for the Global Optimization of Nonconvex Two-Stage Stochastic Programs”, AIChE Annual Meeting, Nov. 2015. Session: Software Tools and Implementations for PSE.
-10. R. Kannan, and P. I. Barton, “A Decomposition Strategy for a Class of of Nonconvex Two-Stage Stochastic Programs”, AIChE Annual Meeting, Nov. 2014. Session: Design and Operations Under Uncertainty. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE14_MLR.pdf" target="_blank">[Slides]</a>
-11. P. I. Barton and R. Kannan, “An Improved Lagrangian Relaxation Approach for Nonconvex Two-Stage Stochastic Programs”, INFORMS Annual Meeting, Nov. 2014. Session: Chance, Inference and Robustness.
+#3. R. Kannan, “Enabling Effective Use of Renewable Energy using Stochastic Optimization”, Science in 3, Los Alamos National Laboratory, July 2021.
+3. R. Kannan, G. Bayraksan, and J. R. Luedtke, “Residuals-Based Distributionally Robust Optimization with Covariate Information”, Robust Optimization Workshop, April 2021. <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
+4. R. Kannan, and P. I. Barton, “The Cluster Problem in Constrained Global Optimization”, AIChE Annual Meeting, Nov. 2016. Session: Advances in Optimization. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE16_ClusterProblem.pdf" target="_blank">[Slides]</a>
+5. R. Kannan, and P. I. Barton, “The Cluster Problem in Constrained Global Optimization”, Thirteenth Global Optimization Workshop, Aug. 2016.
+6. R. Kannan, and P. I. Barton, “Convergence-Order Analysis of Branch-and-Bound Algorithms for Constrained Problems”, AIChE Annual Meeting, Nov. 2015. Session: Advances in Optimization.
+7. P. I. Barton and R. Kannan, “A Decomposition Algorithm for Two-Stage Stochastic Mixed-Integer Nonconvex Programs”, XXII International Symposium on Mathematical Programming (ISMP), July 2015.
+8. R. Kannan, and P. I. Barton, “A Software Framework for the Global Optimization of Nonconvex Two-Stage Stochastic Programs”, AIChE Annual Meeting, Nov. 2015. Session: Software Tools and Implementations for PSE.
+9. R. Kannan, and P. I. Barton, “A Decomposition Strategy for a Class of of Nonconvex Two-Stage Stochastic Programs”, AIChE Annual Meeting, Nov. 2014. Session: Design and Operations Under Uncertainty. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE14_MLR.pdf" target="_blank">[Slides]</a>
+10. P. I. Barton and R. Kannan, “An Improved Lagrangian Relaxation Approach for Nonconvex Two-Stage Stochastic Programs”, INFORMS Annual Meeting, Nov. 2014. Session: Chance, Inference and Robustness.
 
 
 **Poster**
