@@ -4,6 +4,15 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
+**November 2020:** Excited to announce that I will be presenting the paper *A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs* in the <b><a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank">CAST Division Plenary TD11</a></b>! I will also be presenting the following two papers at the 2021 AIChE Annual Meeting
+* *Data-Driven Multistage Stochastic Optimization on Time Series* in <br/> <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank">Session </a>: *Advances in Machine Learning and Intelligent Systems*
+* *Data-Driven Sample Average Approximation with Covariate Information* in <br/> <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank">Session </a>: *Design and Operations Under Uncertainty*
+
+**October 2021:** I will be giving an invited talk on the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the session *Learning and Decision-Making with Contextual Information* at the 2020 INFORMS Annual Meeting
+
+**May 2021:** I gave an invited talk on *Stochastic DC Optimal Power Flow With Reserve Saturation* in the <a href = "https://web.cvent.com/event/def1e6af-670b-4920-a66f-1441511a61ce/summary" target="_blank">Los Alamos - Arizona Days</a> 2021 Conference
+
 **April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
 
 **March 2021:** I gave two invited talks on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization*: to the ChBE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
