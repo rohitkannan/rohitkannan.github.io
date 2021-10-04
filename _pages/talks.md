@@ -46,7 +46,6 @@ author_profile: true
 
 1. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke, “Data-Driven Multistage Stochastic Optimization on Time Series”, AIChE Annual Meeting, Nov. 2021. Session: Advances in Machine Learning & Intelligent Systems.
 2. R. Kannan, G. Bayraksan, and J. R. Luedtke, “Data-Driven Sample Average Approximation with Covariate Information”, AIChE Annual Meeting, Nov. 2021. Session: Design and Operations Under Uncertainty.
-#3. R. Kannan, “Enabling Effective Use of Renewable Energy using Stochastic Optimization”, Science in 3, Los Alamos National Laboratory, July 2021.
 3. R. Kannan, G. Bayraksan, and J. R. Luedtke, “Residuals-Based Distributionally Robust Optimization with Covariate Information”, Robust Optimization Workshop, April 2021. <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
 4. R. Kannan, and P. I. Barton, “The Cluster Problem in Constrained Global Optimization”, AIChE Annual Meeting, Nov. 2016. Session: Advances in Optimization. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE16_ClusterProblem.pdf" target="_blank">[Slides]</a>
 5. R. Kannan, and P. I. Barton, “The Cluster Problem in Constrained Global Optimization”, Thirteenth Global Optimization Workshop, Aug. 2016.
