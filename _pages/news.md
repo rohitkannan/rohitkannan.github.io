@@ -5,11 +5,11 @@ permalink: /news/
 author_profile: true
 ---
 
-**November 2020:** Excited to announce that I will be presenting the paper *A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs* in the <b><a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank">CAST Division Plenary</a></b>! I will also be presenting the following two papers at the 2021 AIChE Annual Meeting
-* *Data-Driven Multistage Stochastic Optimization on Time Series* in <br/> <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank">Session </a>: *Advances in Machine Learning and Intelligent Systems*
-* *Data-Driven Sample Average Approximation with Covariate Information* in <br/> <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank">Session </a>: *Design and Operations Under Uncertainty*
+**November 2021:** Excited to announce that I will be presenting the paper *A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs* in the <b><a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank">CAST Division Plenary</a></b> session at the 2021 AIChE Annual Meeting! I will also be presenting the following two papers at AIChE 2021:
+* *Data-Driven Multistage Stochastic Optimization on Time Series* in the <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank">Session</a> *Advances in Machine Learning and Intelligent Systems*
+* *Data-Driven Sample Average Approximation with Covariate Information* in the <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank">Session</a> *Design and Operations Under Uncertainty*
 
-**October 2021:** I will be giving an invited talk on the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the session *Learning and Decision-Making with Contextual Information* at the 2020 INFORMS Annual Meeting
+**October 2021:** I will be giving an invited talk on the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the <a href = "https://www.abstractsonline.com/pp8/#!/10390/session/478" target="_blank">Session</a> *Learning and Decision-Making with Contextual Information* at the 2020 INFORMS Annual Meeting
 
 **May 2021:** I gave an invited talk on *Stochastic DC Optimal Power Flow With Reserve Saturation* in the <a href = "https://web.cvent.com/event/def1e6af-670b-4920-a66f-1441511a61ce/summary" target="_blank">Los Alamos - Arizona Days</a> 2021 Conference
 
