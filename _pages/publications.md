@@ -8,23 +8,24 @@ author_profile: true
 
 **Working**
 
-1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, pp. 1-15. <br/>
-<a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a>.
-2. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. Data-driven multistage stochastic optimization on time series.
-3. R. Kannan, H. Nagarajan, and D. Deka. Stochastic unit commitment with reserve saturation.
-4. R. Kannan, D. Deka, and H. Nagarajan. Accelerating global optimization solvers using machine learning.
-5. E. M. Turan, R. Kannan, and J. Jäschke. Optimization of PID controllers using semi-infinite programming.
-6. A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using decomposition algorithms.
-7. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs. <br/>
+1. R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. Data-driven multistage stochastic optimization on time series.
+2. R. Kannan, H. Nagarajan, and D. Deka. Stochastic unit commitment with reserve saturation.
+3. R. Kannan, D. Deka, and H. Nagarajan. Accelerating global optimization solvers using machine learning.
+4. E. M. Turan, R. Kannan, and J. Jäschke. Optimization of PID controllers using semi-infinite programming.
+5. A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using decomposition algorithms.
+6. R. Kannan and P. I. Barton. GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs. <br/>
 <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a>
-8. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs.
+7. R. Kannan and P. I. Barton. A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs.
 
 **Submitted**
 
-1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information. Under Review in *Mathematical Programming*, pp. 1-31. <br/>
+
+1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, pp. 1-15. <br/>
+<a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a>.
+2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information, pp. 1-31. Status: *Under Review*. <br/>
 <a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
-2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
-covariate information. Under Review in *Operations Research*, pp. 1-48. <br/>
+3. R. Kannan, G. Bayraksan, and J. R. Luedtke. Data-driven sample average approximation with
+covariate information, pp. 1-48. Status: *Under Major Revision*. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_DDSAA.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a>
 
 **Peer-Reviewed Journals**
