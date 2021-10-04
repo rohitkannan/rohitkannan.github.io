@@ -19,7 +19,7 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 Recent News
 ======
 
-**November 2021:** Excited to announce that I will be presenting the paper "*A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs*" in the <b><a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank">CAST Division Plenary</a></b> session at the 2021 AIChE Annual Meeting! I will also be presenting the following two papers at AIChE 2021:
+**November 2021:** Excited to announce that I will be presenting the paper ``*A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs*'' in the <b><a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank">CAST Division Plenary</a></b> session at the 2021 AIChE Annual Meeting! I will also be presenting the following two papers at AIChE 2021:
 * *Data-Driven Multistage Stochastic Optimization on Time Series* in the <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank">Session</a> *Advances in Machine Learning and Intelligent Systems*
 * *Data-Driven Sample Average Approximation with Covariate Information* in the <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank">Session</a> *Design and Operations Under Uncertainty*
 
