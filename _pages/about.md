@@ -41,8 +41,8 @@ Recent News
 <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Distributionally Robust Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/11/8136.pdf" target="_blank">[PDF]</a>
 
 **November 2020:** I presented two papers at the virtual 2020 INFORMS Annual Meeting
-* "*Data-driven Sample Average Approximation with Covariate Information*" in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2220" target="_blank" style="text-decoration:none">Data, Statistics and Learning in Energy System Optimization</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a>
-* "*Stochastic DC Optimal Power Flow with Reserve Saturation*" in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2845" target="_blank" style="text-decoration:none">Optimization in Energy Systems under Uncertainty</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a>
+* *Data-driven SAA with Covariate Information* in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2220" target="_blank" style="text-decoration:none">Data, Statistics and Learning in Energy System Optimization</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a>
+* *Stochastic DC-OPF with Reserve Saturation* in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2845" target="_blank" style="text-decoration:none">Optimization in Energy Systems under Uncertainty</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a>
 
 **October 2020:** Paper on using *Stochastic Approximation for Chance-Constrained Nonlinear Programs* has been accepted for publication in *Mathematical Programming Computation* <a href = "https://arxiv.org/abs/1812.07066" target="_blank">[Preprint]</a>
 
