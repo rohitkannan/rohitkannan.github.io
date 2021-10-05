@@ -10,7 +10,7 @@ redirect_from:
 Bio
 ======
 
-I am a postdoctoral fellow affiliated with the Center for Nonlinear Studies (CNLS) and Applied Mathematics & Plasma Physics (T-5) groups at Los Alamos National Laboratory. My LANL mentors are Deepjyoti Deka, Harsha Nagarajan, and Russell Bent. Previously, I was a postdoctoral associate in the Wisconsin Institute for Discovery at UW-Madison where I was fortunate to be advised by Jim Luedtke. I obtained my Ph.D. from the Dept. of Chemical Engineering at MIT where I was part of the Barton lab. <br/>
+I am a postdoctoral fellow affiliated with the Center for Nonlinear Studies (CNLS) and Applied Mathematics & Plasma Physics (T-5) groups at Los Alamos National Laboratory. My LANL mentors are Deepjyoti Deka, Harsha Nagarajan, and Russell Bent. Previously, I was a postdoctoral associate in the Wisconsin Institute for Discovery at UW-Madison where I was fortunate to be advised by Jim Luedtke. I obtained my Ph.D. from the Department of Chemical Engineering at MIT where I was part of the Barton lab. <br/>
 
 I am broadly interested in **data-driven decision-making under uncertainty** with application to energy and chemical process systems. My research interests include *integrated machine learning and optimization under uncertainty*, *scalable solution methods for stochastic optimization*, and *deterministic global optimization*.
 <br/>
