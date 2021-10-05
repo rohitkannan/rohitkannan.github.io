@@ -19,7 +19,6 @@ author_profile: true
 
 **Submitted**
 
-
 1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, Technical Report, pp. 1-15. <br/>
 <a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a>.
 2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information, pp. 1-31. Status: *Under Review*. <br/>
@@ -51,6 +50,8 @@ multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6
 
 **Theses**
 
-1. Ph.D.: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
-<a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank">[DSpace@MIT]</a> <a href = "https://rohitkannan.github.io/papers/Kannan_MIT_PhDThesis.pdf" target="_blank">[PDF]</a>
-2. B.Tech.: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.
+<ol reversed>
+<li>Ph.D.: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
+<a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank">[DSpace@MIT]</a> <a href = "https://rohitkannan.github.io/papers/Kannan_MIT_PhDThesis.pdf" target="_blank">[PDF]</a></li>
+<li>B.Tech.: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.</li>
+</ol>
