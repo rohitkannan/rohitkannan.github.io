@@ -36,7 +36,7 @@ Recent News
 
 **January 2021:** <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on Heteroscedasticity-Aware Machine Learning Approaches for Contextual Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2021/01/8201.pdf" target="_blank">[PDF]</a>
 
-**December 2020:** Excited to announce that I have joined the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none">Advanced Network Science Initiative</a> group at Los Alamos National Lab as a <a href = "https://cnls.lanl.gov/External/" target="_blank" style="text-decoration:none">Center for Nonlinear Studies</a> Postdoctoral Fellow.
+**December 2020:** <span style="color: red">Excited to share</span> that I have joined the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none">Advanced Network Science Initiative</a> group at Los Alamos National Lab as a <a href = "https://cnls.lanl.gov/External/" target="_blank" style="text-decoration:none">Center for Nonlinear Studies</a> Postdoctoral Fellow.
 
 <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Distributionally Robust Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/11/8136.pdf" target="_blank">[PDF]</a>
 
