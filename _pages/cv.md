@@ -12,17 +12,17 @@ You can download my full CV <a href = "https://rohitkannan.github.io/files/Rohit
 Education
 ======
 * Ph.D. Chemical Engineering, MIT, 2018
-  * Thesis: <a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank" style="text-decoration:none">Algorithms, analysis and software for the global optimization of two-stage stochastic programs</a>
+  * Thesis: "<a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank" style="text-decoration:none">Algorithms, analysis and software for the global optimization of two-stage stochastic programs</a>"
 * M.S. Chemical Engineering Practice, MIT, 2014
 * B.Tech. Chemical Engineering, IIT Madras, 2012
-  * Thesis: PDC for nonlinear Granger causality: A generalized correlation function-based approach
+  * Thesis: "PDC for nonlinear Granger causality: A generalized correlation function-based approach"
 
 Professional Appointments
 ======
 * Postdoctoral Fellow, Center for Nonlinear Studies and Applied Math & Plasma Physics, LANL, since 2021
-  * Focus: ML-based techniques for accelerating global optimization algorithms
+  * Focus: "ML-based techniques for accelerating global optimization algorithms"
 * Postdoctoral Associate, Wisconsin Institute for Discovery, UW-Madison, 2018 to 2020
-  * Focus: Data-driven optimization under uncertainty with application to power systems
+  * Focus: "Data-driven optimization under uncertainty with application to power systems"
 * Engineering Consultant at Alcon and Corning Inc., 2013
 * Research Intern, Laboratory of Computational Systems Biotechnology, EPFL, Switzerland, 2011
 * Research Intern, Technology Transfer Lab, Orchid Chemicals and Pharmaceuticals, India, 2010
@@ -43,11 +43,22 @@ Select Honors and Awards
 Service
 ======
 * Invited External Examiner for the following students:
-  * Mari E. Rugland, “An object-oriented framework for the optimization of flexible renewable energy systems”, Master’s thesis, Dept. of Chemical Engineering, NTNU, 2021.  <br/> Supervisors: Johannes Jäschke, Truls Gundersen, and Avinash S. R. Subramanian
+  * Mari E. Rugland, “An object-oriented framework for the optimization of flexible renewable energy systems”, </br> Master’s thesis, Dept. of Chemical Engineering, NTNU, 2021.  <br/> Supervisors: Johannes Jäschke, Truls Gundersen, and Avinash S. R. Subramanian
   * Petter E. Nordby, “Optimization of flexible renewable energy systems under uncertainty”, </br> Master’s thesis, Dept. of Energy & Process Engineering, NTNU, 2021. <br/> Supervisors: Truls Gundersen, Johannes Jäschke, and Avinash S. R. Subramanian
-* Invited Peer-Reviewer for Operations Research, Mathematical Programming, Journal of Global Optimization, Journal of Optimization Theory and Applications, Optimization Methods and Software, Computational Optimization and Applications, Set-Valued and Variational Analysis, INFORMS Journal on Optimization, Computers and Chemical Engineering, Industrial and Engineering Chemistry Research, Electric Power Systems Research, IEEE Transactions on Control Systems Technology, American Control Conference
-* Session Chair (Invited), Computational Stochastic Programming, INFORMS 2018
+
+* Invited Peer-Reviewer for the following journals and conferences (<a href = "https://publons.com/researcher/4637031/rohit-kannan/" target="_blank" style="text-decoration:none">Publons Profile</a>): </br></br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Operations Research    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      Journal of Optimization Theory and Applications </br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mathematical Programming    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      Computational Optimization and Applications </br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Journal of Global Optimization    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;     Optimization Methods and Software </br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Set-Valued and Variational Analysis    &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;     INFORMS Journal on Optimization </br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Computers and Chemical Engineering    &emsp;&emsp;&emsp;&emsp;&ensp;     Industrial and Engineering Chemistry Research </br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Electric Power Systems Research    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;     IEEE Transactions on Control Systems Technology </br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; American Control Conference
+
+* Invited Session Chair, "Computational Stochastic Programming", INFORMS 2018 Annual Meeting
+
 * Organizer of monthly teleconference meetings on "Optimization Under Uncertainty" (15 participants) as part of the <a href = "https://www.mcs.anl.gov/MACSER/" target="_blank" style="text-decoration:none">DOE MACSER Project</a> (Nov. 2018 to Nov. 2020)
+
 * Designed and demonstrated science experiments in underprivileged schools for the NSS at IIT Madras, 2008 
 
 
