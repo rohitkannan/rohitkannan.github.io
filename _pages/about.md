@@ -21,7 +21,7 @@ Recent News
 ======
 
 **November 2021:** Excited to announce that I will be presenting <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank" style="text-decoration:none">the paper</a> *A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs* in the <span style="color: red">CAST Division Plenary</span> session at the 2021 AIChE Annual Meeting! I will also be presenting the following two papers at AIChE 2021:
-* *Data-Driven Multistage Stochastic Optimization on Time Series* in <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank" style="text-decoration:none">Advances in Machine Learning and Intelligent Systems</a>
+* *Data-Driven Multistage Stochastic Optimization on Time Series* in <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank" style="text-decoration:none">Advances in ML and Intelligent Systems</a>
 * *Data-Driven Sample Average Approximation with Covariate Information* in <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank" style="text-decoration:none">Design and Operations Under Uncertainty</a>
 
 **October 2021:** I will be giving an invited talk on *Residuals-Based Distributionally Robust Optimization with Covariate Information* in <a href = "https://www.abstractsonline.com/pp8/#!/10390/session/478" target="_blank" style="text-decoration:none">Learning and Decision-Making with Contextual Information</a> at the 2021 INFORMS Annual Meeting
@@ -30,9 +30,9 @@ Recent News
 
 **April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
 
-**March 2021:** I gave invited talks on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization* to the ChemE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
+**March 2021:** I gave invited talks on *A Modular Framework for Integrating ML within Stochastic Optimization* to the ChemE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
 
-**February 2021:** I gave an invited talk on *A Modular Framework for Integrating Machine Learning within Stochastic Optimization* to the Systems & Industrial Engineering Dept. at the University of Arizona
+**February 2021:** I gave an invited seminar on *A Modular Framework for Integrating ML within Stochastic Optimization* to the Systems & Industrial Engineering Dept. at the University of Arizona
 
 **January 2021:** <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on Heteroscedasticity-Aware Machine Learning Approaches for Contextual Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2021/01/8201.pdf" target="_blank">[PDF]</a>
 
@@ -41,10 +41,10 @@ Recent News
 <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Distributionally Robust Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/11/8136.pdf" target="_blank">[PDF]</a>
 
 **November 2020:** I presented two papers at the virtual 2020 INFORMS Annual Meeting
-* "*Data-driven Sample Average Approximation with Covariate Information*" in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2220" target="_blank" style="text-decoration:none">Session TD11</a>: *Data, Statistics and Learning in Energy System Optimization* <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a>
-* "*Stochastic DC Optimal Power Flow with Reserve Saturation*" in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2845" target="_blank" style="text-decoration:none">Session ThC38</a>: *Optimization in Energy Systems under Uncertainty* <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a>
+* "*Data-driven Sample Average Approximation with Covariate Information*" in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2220" target="_blank" style="text-decoration:none">Data, Statistics and Learning in Energy System Optimization</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a>
+* "*Stochastic DC Optimal Power Flow with Reserve Saturation*" in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2845" target="_blank" style="text-decoration:none">Optimization in Energy Systems under Uncertainty</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a>
 
-**October 2020:** Paper on *Stochastic Approximation for Chance-Constrained Nonlinear Programs* has been accepted for publication in *Mathematical Programming Computation* <a href = "https://arxiv.org/abs/1812.07066" target="_blank">[Preprint]</a>
+**October 2020:** Paper on using *Stochastic Approximation for Chance-Constrained Nonlinear Programs* has been accepted for publication in *Mathematical Programming Computation* <a href = "https://arxiv.org/abs/1812.07066" target="_blank">[Preprint]</a>
 
 
 You can find older news items [here](https://rohitkannan.github.io/news/)
