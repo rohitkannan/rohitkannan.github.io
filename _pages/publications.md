@@ -48,14 +48,14 @@ multivariate Granger causality in nonlinear processes. *Physical Review E*, 89(6
 **Peer-Reviewed Conferences**
 
 <ol reversed>
-<li>R. Kannan and P. I. Barton (2016). The cluster problem in constrained global optimization. Proceedings of the XIII Global Optimization Workshop (GOW’16), pp. 9-12. <br/>
+<li>R. Kannan and P. I. Barton (2016). &ldquo;The cluster problem in constrained global optimization&rdquo;. Proceedings of the XIII <i>Global Optimization Workshop</i> (GOW’16), pp. 9-12. <br/>
 <a href = "http://repositorium.uminho.pt/bitstream/1822/42944/1/Proceedings%20GOW16.pdf#page=20" target="_blank"> [Conference]</a></li>
 </ol>
 
 **Theses**
 
 <ol reversed>
-<li>Ph.D.: Algorithms, analysis and software for the global optimization of two-stage stochastic programs, MIT, 2018. <br/>
+<li>Ph.D.: &ldquo;Algorithms, analysis and software for the global optimization of two-stage stochastic programs&rdquo;, <i>MIT</i>, 2018. <br/>
 <a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank">[DSpace@MIT]</a> <a href = "https://rohitkannan.github.io/papers/Kannan_MIT_PhDThesis.pdf" target="_blank">[PDF]</a></li>
-<li>B.Tech.: Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach, IIT Madras, 2012.</li>
+<li>B.Tech.: &ldquo;Partial directed coherence for nonlinear Granger causality: A generalized correlation function-based approach&rdquo;, <i>IIT Madras</i>, 2012.</li>
 </ol>
