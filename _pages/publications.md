@@ -20,7 +20,7 @@ author_profile: true
 **Submitted**
 
 
-1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, pp. 1-15. <br/>
+1. R. Kannan, G. Bayraksan, and J. R. Luedtke. Heteroscedasticity-aware residuals-based contextual stochastic optimization, Technical Report, pp. 1-15. <br/>
 <a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a>.
 2. R. Kannan, G. Bayraksan, and J. R. Luedtke. Residuals-based distributionally robust optimization with covariate information, pp. 1-31. Status: *Under Review*. <br/>
 <a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a>
