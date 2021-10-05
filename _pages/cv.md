@@ -15,7 +15,7 @@ Education
   * Thesis: <a href = "https://dspace.mit.edu/handle/1721.1/117326" target="_blank" style="text-decoration:none">Algorithms, analysis and software for the global optimization of two-stage stochastic programs</a>
 * M.S. Chemical Engineering Practice, MIT, 2014
 * B.Tech. Chemical Engineering, IIT Madras, 2012
-  * Thesis: PDC for nonlinear Granger causality: A generalized correlation function-based approach
+  * Thesis: "PDC for nonlinear Granger causality: A generalized correlation function-based approach"
 
 Professional Appointments
 ======
