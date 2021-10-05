@@ -46,14 +46,14 @@ Service
   * Mari E. Rugland, “An object-oriented framework for the optimization of flexible renewable energy systems”, </br> Master’s thesis, Dept. of Chemical Engineering, NTNU, 2021.  <br/> Supervisors: Johannes Jäschke, Truls Gundersen, and Avinash S. R. Subramanian
   * Petter E. Nordby, “Optimization of flexible renewable energy systems under uncertainty”, </br> Master’s thesis, Dept. of Energy & Process Engineering, NTNU, 2021. <br/> Supervisors: Truls Gundersen, Johannes Jäschke, and Avinash S. R. Subramanian
 
-* Invited Peer-Reviewer for the following journals and conferences (<a href = "https://publons.com/researcher/4637031/rohit-kannan/" target="_blank" style="text-decoration:none">Publons Profile</a>): </br></br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Operations Research    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      Journal of Optimization Theory and Applications </br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mathematical Programming    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      Computational Optimization and Applications </br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Journal of Global Optimization    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;     Optimization Methods and Software </br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Set-Valued and Variational Analysis    &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;     INFORMS Journal on Optimization </br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Computers and Chemical Engineering    &emsp;&emsp;&emsp;&emsp;&ensp;     Industrial and Engineering Chemistry Research </br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Electric Power Systems Research    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;     IEEE Transactions on Control Systems Technology </br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; American Control Conference
+* Invited Peer-Reviewer for the following journals and conferences (<a href = "https://publons.com/researcher/4637031/rohit-kannan/" target="_blank" style="text-decoration:none">Publons Profile</a>): <br/><br/>
+&emsp;&emsp;&emsp;&emsp; Operations Research    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      Journal of Optimization Theory and Applications <br/>
+&emsp;&emsp;&emsp;&emsp; Mathematical Programming    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      Computational Optimization and Applications <br/>
+&emsp;&emsp;&emsp;&emsp; Journal of Global Optimization    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;     Optimization Methods and Software <br/>
+&emsp;&emsp;&emsp;&emsp; Set-Valued and Variational Analysis    &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;     INFORMS Journal on Optimization <br/>
+&emsp;&emsp;&emsp;&emsp; Computers and Chemical Engineering    &emsp;&emsp;&emsp;&emsp;&ensp;     Industrial and Engineering Chemistry Research <br/>
+&emsp;&emsp;&emsp;&emsp; Electric Power Systems Research    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;     IEEE Transactions on Control Systems Technology <br/>
+&emsp;&emsp;&emsp;&emsp; American Control Conference
 
 * Invited Session Chair, "Computational Stochastic Programming", INFORMS 2018 Annual Meeting
 
