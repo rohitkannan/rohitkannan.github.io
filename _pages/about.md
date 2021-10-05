@@ -11,16 +11,16 @@ redirect_from:
 Bio
 ======
 
-I am a postdoctoral fellow affiliated with the Center for Nonlinear Studies (CNLS) and Applied Mathematics & Plasma Physics (T-5) groups at Los Alamos National Laboratory. My LANL mentors are Deepjyoti Deka, Harsha Nagarajan, and Russell Bent. Previously, I was a postdoctoral associate in the Wisconsin Institute for Discovery at UW-Madison where I was fortunate to be advised by Jim Luedtke. I obtained my Ph.D. from the Department of Chemical Engineering at MIT where I was part of the Barton lab. <br/>
+I am a postdoctoral fellow with the Center for Nonlinear Studies and Applied Mathematics & Plasma Physics (T-5) groups at Los Alamos National Laboratory. My LANL mentors are Deepjyoti Deka, Harsha Nagarajan, and Russell Bent. Previously, I was a postdoctoral associate in the Wisconsin Institute for Discovery at UW-Madison where I was fortunate to be advised by Jim Luedtke. I obtained my Ph.D. in Chemical Engineering from MIT where I was a member of the Barton lab. <br/>
 
-I am broadly interested in **data-driven decision-making under uncertainty** with application to energy and chemical process systems. My research interests include *integrated machine learning and optimization under uncertainty*, *scalable solution methods for stochastic optimization*, and *deterministic global optimization*.
+I am broadly interested in **data-driven decision-making under uncertainty** with application to energy and chemical process systems. My research interests include *integrated learning and optimization*, scalable *stochastic optimization*, and theory and algorithms for *deterministic global optimization*.
 <br/>
 
 
 Recent News
 ======
 
-**November 2021:** Excited to announce that I will be presenting the paper "*A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs*" in the <b><a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank">CAST Division Plenary</a></b> session at the 2021 AIChE Annual Meeting! I will also be presenting the following two papers at AIChE 2021:
+**November 2021:** Excited to announce that I will be presenting the paper "*A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs*" in the <span style="color: red"><a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank">CAST Division Plenary</a></span> session at the 2021 AIChE Annual Meeting! I will also be presenting the following two papers at AIChE 2021:
 * "*Data-Driven Multistage Stochastic Optimization on Time Series*" in the <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank">Advances in Machine Learning and Intelligent Systems</a> session
 * "*Data-Driven Sample Average Approximation with Covariate Information*" in the <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank">Design and Operations Under Uncertainty</a> session
 
