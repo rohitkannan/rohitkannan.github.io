@@ -31,23 +31,23 @@ author_profile: true
 
 **October 2020:** Paper on using *Stochastic Approximation for Chance-Constrained Nonlinear Programs* has been accepted for publication in *Mathematical Programming Computation* <a href = "https://arxiv.org/abs/1812.07066" target="_blank">[Preprint]</a>
 
-**September 2020:** I gave an invited talk to the Mathematics & Computer Science Division at Argonne National Laboratory <a href = "https://rohitkannan.github.io/presentations/Kannan_Argonne_September_2020.pdf" target="_blank">[Slides]</a>
+**September 2020:** I gave an invited talk to the Math & Computer Science Division at Argonne National Lab <a href = "https://rohitkannan.github.io/presentations/Kannan_Argonne_September_2020.pdf" target="_blank">[Slides]</a>
 
 **August 2020:** I presented a poster on *Integrated Learning and Optimization* at the <a href = "https://wid.wisc.edu/wid-symposium/" target="_blank" style="text-decoration:none">Third Annual Wisconsin Institute for Discovery Symposium</a>
 
 **July 2020:** <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/07/7932.pdf" target="_blank">[PDF]</a>
 
-I gave an invited seminar to the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none">Advanced Network Science Initiative</a> group at Los Alamos National Laboratory
+I gave an invited seminar to the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none">Advanced Network Science Initiative</a> group at Los Alamos National Lab
 
 **March 2020:** <span style="color: red">Excited to share</span> that my paper with Jim Luedtke and Line Roald titled *Stochastic DC Optimal Power Flow with Reserve Saturation* was featured on the UW-Madison <a href = "https://www.engr.wisc.edu/news/power-tools-new-math-model-optimizes-energy/" target="_blank" style="text-decoration:none">College of Engineering News Website </a>
 
 **February 2020:** I gave a short talk and presented a poster titled *Predict, then smart optimize with stochastic programming* at the <a href = "http://www.ipam.ucla.edu/programs/workshops/intersections-between-control-learning-and-optimization/" target="_blank" style="text-decoration:none">IPAM 2020 Workshop</a> on Intersections between Control, Learning and Optimization <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a>
 
 **November 2019:** I presented two posters at the 2019 AIChE Annual Meeting
-* *Optimization and Control of Chemical Process Systems Under Uncertainty* in <a href = "https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/582022" target="_blank" style="text-decoration:none">Meet the Faculty Candidate</a> Session
+* *Optimization and Control of Chemical Process Systems Under Uncertainty* in <a href = "https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/582022" target="_blank" style="text-decoration:none">Meet the Faculty Candidates</a> session
 * *A Stochastic Approximation Method for Chance-Constrained Nonlinear Programs* in the <a href = "https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/563982" target="_blank" style="text-decoration:none">Interactive Session on Systems and Process Operations</a>
 
-**September 2019:** I presented a poster on *A Stochastic Approximation Method for Chance-Constrained Nonlinear Programs* at the <a href = "https://graingerinstitute.engr.wisc.edu/computing-in-engineering-forum-2019/" target="_blank" style="text-decoration:none">2019 Computing in Engineering Forum</a> at UW-Madison
+**September 2019:** I presented a poster on *A Stochastic Approximation Method for Chance-Constrained Nonlinear Programs* in the <a href = "https://graingerinstitute.engr.wisc.edu/computing-in-engineering-forum-2019/" target="_blank" style="text-decoration:none">2019 Computing in Engineering Forum</a> at UW-Madison
 
 **June 2019:** I presented a poster on *Stochastic Approximation for Chance-Constrained Nonlinear Programs* at the <a href = "https://icerm.brown.edu/topical_workshops/tw19-2-hire/" target="_blank" style="text-decoration:none">ICERM 2019 Workshop</a> on Mathematical Optimization of Systems Impacted by Rare, High-Impact Random Events <a href = "https://rohitkannan.github.io/presentations/Kannan_ICERM19_SAforCCP.pdf" target="_blank">[Poster]</a> <br/> <br/>
 I presented a poster on *Optimizing uncertain systems with reliability requirements* at the <a href = "https://wid.wisc.edu/2019-wid-symposium/" target="_blank" style="text-decoration:none">Second Annual Wisconsin Institute for Discovery Symposium</a>
