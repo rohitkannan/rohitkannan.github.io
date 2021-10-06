@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Rohit's Homepage"
 title_separator          : "-"
 name                     : &name "Rohit Kannan, Ph.D."
 description              : &description "Center for Nonlinear Studies Postdoctoral Fellow at Los Alamos National Laboratory"
