@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my full CV <a href = "https://rohitkannan.github.io/files/RohitKannan_CV.pdf" target="_blank">here</a>
+Download my full CV <a href = "https://rohitkannan.github.io/files/RohitKannan_CV.pdf" target="_blank">here</a>
 
 Education
 ======
