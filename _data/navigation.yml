@@ -11,15 +11,18 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    
+#   - title: "Projects"
+#     url: /projects/    
 
   - title: "Collaborators"
     url: /collaborators/ 
 
+#  - title: "Software"
+#    url: /software/ 
+
   - title: "News"
     url: /news/ 
-    
-#   - title: "Projects"
-#     url: /projects/    
 
 
 #   - title: "Portfolio"
