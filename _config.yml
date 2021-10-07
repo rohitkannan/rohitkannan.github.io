@@ -245,6 +245,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  #collaborators
+  - scope:
+      path: ""
+      type: collaborators
+    values:
+      layout: collaborators
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
