@@ -4,6 +4,9 @@ layout: archive
 permalink: /projects/
 author_profile: true
 ---
+
+**Page under construction**
+
 <html>
 <body>
 <h1>Past projects</h1>
