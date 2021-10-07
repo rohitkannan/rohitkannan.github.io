@@ -11,4 +11,4 @@ author_profile: true
 * SACCP: Open-source Julia toolkit for the local solution of chance-constrained NLPs
   * Includes a tailored stochastic approximation algorithm for approximating the efficient frontier
 * DCOPFRS: Open-source Julia toolkit for solving stochastic DC-OPF with reserve saturation
-  * Scalable implementation
+  * Scalable implementation for DC-OPF with renewables
