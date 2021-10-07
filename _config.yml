@@ -117,7 +117,6 @@ author:
   youtube          :
   wikipedia        :
 
-
 # Reading Files
 include:
   - .htaccess
@@ -282,6 +281,10 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+[[params.social]]
+    icon = "publons"
+    icon_pack = "ai"
+    link = "//publons.com/author/xxxx"
 
 # Archives
 #  Type
