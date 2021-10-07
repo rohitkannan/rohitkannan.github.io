@@ -9,7 +9,7 @@ author_profile: true
 Below is the list of collaborators that I have been fortunate to work with over the years:
 
 * <a href = "http://arunkt.yolasite.com/" target="_blank" style="text-decoration:none">Arun Tangirala</a>, Professor, Chemical Engineering, Indian Institute of Technology Madras
-* <a href = "https://www.ntnu.edu/employees/avinash.subramanian" target="_blank" style="text-decoration:none">Avinash Subramanian</a>, Ph.D. Candidate, Energy and Process Engineering, Norwegian University of Science and Technology
+* <a href = "https://www.ntnu.edu/employees/avinash.subramanian" target="_blank" style="text-decoration:none">Avinash Subramanian</a>, Research Scientist, SINTEF, Norway
 * <a href = "https://www.linkedin.com/in/deepjyoti-deka-8a44388" target="_blank" style="text-decoration:none">Deepjyoti Deka</a>, Scientist, Applied Mathematics and Plasma Physics, Los Alamos National Lab
 * <a href = "https://www.ntnu.edu/employees/evren.m.turan" target="_blank" style="text-decoration:none">Evren Turan</a>, Ph.D. Candidate, Chemical Engineering, Norwegian University of Science and Technology
 * <a href = "https://u.osu.edu/bayraksan.1/" target="_blank" style="text-decoration:none">Güzin Bayraksan</a>, Professor, Integrated Systems Engineering, The Ohio State University
