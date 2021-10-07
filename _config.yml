@@ -273,11 +273,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-[[params.social]]
-    icon = "publons"
-    icon_pack = "ai"
-    link = "//publons.com/author/xxxx"
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
