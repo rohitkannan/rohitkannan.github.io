@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Collaborators"
+    url: /collaborators/ 
+
   - title: "News"
     url: /news/ 
     
