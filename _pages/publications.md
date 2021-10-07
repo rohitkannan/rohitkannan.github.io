@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href = "https://scholar.google.com/citations?user=eC9xQAsAAAAJ&hl=en" target="_blank" style="text-decoration:none">My Google Scholar Profile</a>
+Access my Google Scholar profile <a href = "https://scholar.google.com/citations?user=eC9xQAsAAAAJ&hl=en" target="_blank">here</a>
 
 **Working**
 
