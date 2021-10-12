@@ -10,8 +10,7 @@ author_profile: true
 <html>
 <body>
 <h1>Past projects</h1>
-    <table style = "border: 1px solid black;">
-      
+    <table style = "border: 1px solid black; background-color:#F6EEEC;">
         
         <tr><td colspan = "2" style="border: none;padding-right:40px;vertical-align:bottom;text-align:center;"><p style="font-size:20px;margin-bottom: -15px;"><b>Viability of branch-and-bound (B&B) algorithms</b></p></td></tr>  
         <tr>
@@ -47,7 +46,7 @@ author_profile: true
          </tr>
      </table>
     
-    <table style = "border: 1px solid black;">
+    <table style = "border: 1px solid black;background-color:#F6EEEC;">
         <tr>
         <td colspan = "2" style="border: none;padding-right:40px;vertical-align:bottom;text-align:center;"><p style="font-size:20px;margin-bottom: -15px;"><b>Optimization with reliability constraints</b></p></td>
         </tr>
