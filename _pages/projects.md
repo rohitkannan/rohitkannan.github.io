@@ -22,7 +22,13 @@ author_profile: true
         <td style = "border: none;width: 453.5px;padding-right: 20px;">
           <img src="https://rohitkannan.github.io/images/fig1.png" style = "clear:both;width:auto;height:auto"/>
         </td>
-      </tr>        
+      </tr>
+   <tr>
+       <td colspan = "2"><p>Kannan, R., & Barton, P. I. (2017). The cluster problem in constrained global optimization. Journal of Global Optimization, 69(3), 629-676.</p> 
+           <p>Kannan, R., & Barton, P. I. (2018). Convergence-order analysis of branch-and-bound algorithms for constrained problems. Journal of Global Optimization, 71(4), 753-813.</p>
+       </td> 
+   </tr>    
+        
   </table>
         
   <table style = "border: none;">
