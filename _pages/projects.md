@@ -9,7 +9,6 @@ author_profile: true
 
 <html>
 <body>
-<h1>Past projects</h1>
     <table style = "border: none; background-color:#F7F7F7;">
         
         <tr><td colspan = "2" style="border: none;padding-right:40px;vertical-align:bottom;text-align:center;"><p style="font-size:20px;margin-bottom: -15px;"><b>Viability of branch-and-bound (B&B) algorithms</b></p></td></tr>  
