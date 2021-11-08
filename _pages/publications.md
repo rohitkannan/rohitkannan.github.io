@@ -13,8 +13,6 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 <li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. "Data-driven multistage stochastic optimization on time series".</li>
 <li>R. Kannan, H. Nagarajan, and D. Deka. "Stochastic unit commitment with reserve saturation".</li>
 <li>R. Kannan, D. Deka, and H. Nagarajan. "Accelerating global optimization solvers using machine learning".</li>
-<li>E. M. Turan, R. Kannan, and J. Jäschke. "Optimization of PID controllers using semi-infinite programming".</li>
-<li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using decomposition algorithms".</li>
 <li>R. Kannan and P. I. Barton. "GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs". <br/>
 <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a></li>
 <li>R. Kannan and P. I. Barton. "A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs".</li>
@@ -23,6 +21,9 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 **Submitted**
 
 <ol reversed>
+<li>E. M. Turan, R. Kannan, and J. Jäschke. "Design of PID controllers using semi-infinite programming," pp. 1-6. Status: Under Review</li>
+<li>A. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm," pp. 1-30. <br/>
+<a href = "http://psecommunity.org/LAPSE:2021.0798" target="_blank">[Preprint]</a></li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Heteroscedasticity-aware residuals-based contextual stochastic optimization", <i>Technical Report</i>, pp. 1-15. <br/>
 <a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a></li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Residuals-based distributionally robust optimization with covariate information", pp. 1-31. Status: <i>Under Review</i>. <br/>
