@@ -22,7 +22,7 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 
 <ol reversed>
 <li>E. M. Turan, R. Kannan, and J. Jäschke. "Design of PID controllers using semi-infinite programming", pp. 1-6. <br/> Status: Under Review</li>
-<li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm", pp. 1-30. <br/>
+<li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm", pp. 1-74. <br/>
 <a href = "http://psecommunity.org/LAPSE:2021.0798" target="_blank">[Preprint]</a></li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Heteroscedasticity-aware residuals-based contextual stochastic optimization", <i>Technical Report</i>, pp. 1-15. <br/>
 <a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a></li>
