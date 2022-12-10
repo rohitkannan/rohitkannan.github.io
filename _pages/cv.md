@@ -43,11 +43,16 @@ Select Honors and Awards
 Service
 ======
 
+**Student Mentorship**
+
+* Mithun Goutham, "Stochastic Optimization Models for Enhancing the Resilience of the Power Grid," Summer Student at the Center for Nonlinear Studies, Los Alamos National Laboratory, 2022
+* Avinash Subramanian, "<a href = "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787182" target="_blank" style="text-decoration:none">Optimization under Uncertainty of Hybrid Feedstock Polygeneration Systems</a>," Ph.D. Student, Department of Energy & Process Engineering, Norwegian University of Science and Technology (NTNU), 2021.
+
 **Committees and Editorial Service**
 
 * Invited External Examiner for the following students:
-  * Mari E. Rugland, “An object-oriented framework for the optimization of flexible renewable energy systems”, <br/> Master’s thesis, Dept. of Chemical Engineering, NTNU, 2021.  <br/> Supervisors: Johannes Jäschke, Truls Gundersen, and Avinash S. R. Subramanian
-  * Petter E. Nordby, <a href = "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787182" target="_blank" style="text-decoration:none">Optimization of flexible renewable energy systems under uncertainty</a>, <br/> Master’s thesis, Dept. of Energy & Process Engineering, NTNU, 2021. <br/> Supervisors: Truls Gundersen, Johannes Jäschke, and Avinash S. R. Subramanian
+  * Mari E. Rugland, "<a href = "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2824811" target="_blank" style="text-decoration:none">An object-oriented framework for the optimization of flexible renewable energy systems</a>," <br/> Master’s thesis, Dept. of Chemical Engineering, NTNU, 2021.  <br/> Supervisors: Johannes Jäschke, Truls Gundersen, and Avinash S. R. Subramanian
+  * Petter E. Nordby, "<a href = "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787182" target="_blank" style="text-decoration:none">Optimization of flexible renewable energy systems under uncertainty</a>," <br/> Master’s thesis, Dept. of Energy & Process Engineering, NTNU, 2021. <br/> Supervisors: Truls Gundersen, Johannes Jäschke, and Avinash S. R. Subramanian
 
 * Invited Peer-Reviewer for the following journals and conferences (<a href = "https://publons.com/researcher/4637031/rohit-kannan/" target="_blank" style="text-decoration:none">Publons Profile</a>):
   * Operations Research
