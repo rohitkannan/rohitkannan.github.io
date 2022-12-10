@@ -10,23 +10,22 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 **Working**
 
 <ol reversed>
-<li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. "Data-driven multistage stochastic optimization on time series".</li>
-<li>R. Kannan, H. Nagarajan, and D. Deka. "Stochastic unit commitment with reserve saturation".</li>
-<li>R. Kannan, D. Deka, and H. Nagarajan. "Accelerating global optimization solvers using machine learning".</li>
-<li>R. Kannan and P. I. Barton. "GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs". <br/>
+<li>M. Goutham, R. Kannan, D. Pasqualini, D. Deka, H. Nagarajan, and R. Bent, "Optimal Power Flow for Resilient Electric Grids under Uncertain Hurricane Forecasts: A Multistage Stochastic Programming Approach."</li>
+<li>E. M. Turan, J. Jäschke, and R. Kannan. "Accelerating the Cutting-Plane Method for Semi-Infinite Programming Using Parametric Sensitivity Theory."</li>
+<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate Partitioning-Based Algorithms for the Global Optimization of Nonconvex Quadratically-Constrained Quadratic Programs."</li>
+<li>R. Kannan, H. Nagarajan, and D. Deka. "Stochastic Unit Commitment with Reserve Saturation."</li>
+<li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. "Data-Driven Multistage Stochastic Optimization on Time Series."</li>
+<li>R. Kannan and P. I. Barton. "GOSSIP: Decomposition Software for the Global Optimization of Nonconvex Two-Stage Stochastic Mixed-Integer Nonlinear Programs."<br/>
 <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a></li>
-<li>R. Kannan and P. I. Barton. "A modified Lagrangian relaxation algorithm for two-stage stochastic mixed-integer nonlinear programs".</li>
+<li>R. Kannan and P. I. Barton. "Integrating Benders Decomposition and Lagrangian Relaxation for Solving Two-Stage Stochastic Mixed-Integer Nonlinear Programs."</li>
 </ol>
 
 **Submitted**
 
 <ol reversed>
-<li>E. M. Turan, R. Kannan, and J. Jäschke. "Design of PID controllers using semi-infinite programming", pp. 1-6. <br/> Status: Under Review</li>
 <li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm", pp. 1-74. <br/>
 <a href = "http://psecommunity.org/LAPSE:2021.0798" target="_blank">[Preprint]</a></li>
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Heteroscedasticity-aware residuals-based contextual stochastic optimization", <i>Technical Report</i>, pp. 1-15. <br/>
-<a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a></li>
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Residuals-based distributionally robust optimization with covariate information", pp. 1-44. Status: <i>Under Second Round of Review</i>. <br/>
+<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Residuals-based distributionally robust optimization with covariate information", pp. 1-44. Status: <i>Under Second Revision</i>. <br/>
 <a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a></li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Data-driven sample average approximation with covariate information", pp. 1-57. Status: <i>Under Second Round of Review</i>. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_DDSAA.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a></li>
@@ -47,9 +46,18 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 <a href = "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.062144" target="_blank"> [Journal]</a> <a href = "https://rohitkannan.github.io/papers/KannanTangirala_PhysRevE_KPDC.pdf" target="_blank">[PDF]</a></li>
 </ol>
 
+**Technical Reports**
+
+<ol reversed>
+<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Heteroscedasticity-aware residuals-based contextual stochastic optimization", <i>Technical Report</i>, pp. 1-15. <br/>
+<a href = "https://arxiv.org/abs/2101.03139" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_Heteroscedasticity.pdf" target="_blank">[PDF]</a></li>
+</ol>
+
 **Peer-Reviewed Conferences**
 
 <ol reversed>
+<li>E. M. Turan, R. Kannan, and J. Jäschke. "Design of PID controllers using semi-infinite programming." Proceedings of the 14th International Symposium on Process Systems Engineering, pp. 439-444. <br/> 
+<a href = "https://www.sciencedirect.com/science/article/abs/pii/B9780323851596500737" target="_blank"> [Conference]</a> <a href = "https://folk.ntnu.no/jaschke/preprints/2022/PSE2021+/TuranSIP_PID/EvrenTuranPSE2021_PID_tuning_SIP_final.pdf" target="_blank">[PDF]</a></li>
 <li>R. Kannan and P. I. Barton (2016). "The cluster problem in constrained global optimization". Proceedings of the XIII <i>Global Optimization Workshop</i> (GOW’16), pp. 9-12. <br/>
 <a href = "http://repositorium.uminho.pt/bitstream/1822/42944/1/Proceedings%20GOW16.pdf#page=20" target="_blank"> [Conference]</a></li>
 </ol>
