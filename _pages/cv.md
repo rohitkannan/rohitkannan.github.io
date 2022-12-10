@@ -42,6 +42,9 @@ Select Honors and Awards
 
 Service
 ======
+
+**Committees and Editorial Service**
+
 * Invited External Examiner for the following students:
   * Mari E. Rugland, “An object-oriented framework for the optimization of flexible renewable energy systems”, <br/> Master’s thesis, Dept. of Chemical Engineering, NTNU, 2021.  <br/> Supervisors: Johannes Jäschke, Truls Gundersen, and Avinash S. R. Subramanian
   * Petter E. Nordby, <a href = "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787182" target="_blank" style="text-decoration:none">Optimization of flexible renewable energy systems under uncertainty</a>, <br/> Master’s thesis, Dept. of Energy & Process Engineering, NTNU, 2021. <br/> Supervisors: Truls Gundersen, Johannes Jäschke, and Avinash S. R. Subramanian
@@ -49,9 +52,11 @@ Service
 * Invited Peer-Reviewer for the following journals and conferences (<a href = "https://publons.com/researcher/4637031/rohit-kannan/" target="_blank" style="text-decoration:none">Publons Profile</a>):
   * Operations Research
   * Mathematical Programming
+  * SIAM Journal on Optimization
   * Journal of Global Optimization
   * Journal of Optimization Theory and Applications
   * Computational Optimization and Applications
+  * INFORMS Journal on Computing
   * Set-Valued and Variational Analysis
   * Optimization Methods and Software
   * INFORMS Journal on Optimization
@@ -61,7 +66,12 @@ Service
   * IEEE Transactions on Control Systems Technology
   * American Control Conference
 
-* Invited Session Chair, *Computational Stochastic Programming*, 2018 INFORMS Annual Meeting
+**Professional and Institutional Service**
+
+* Invited Session Chair at the following conferences:
+  * *Learning-Assisted Dynamic Decision-Making Under Uncertainty*, 2022 INFORMS Annual Meeting
+  * *Global Optimization of Stochastic and Semi-Infinite Programs*, 2022 INFORMS Annual Meeting
+  * *Computational Stochastic Programming*, 2018 INFORMS Annual Meeting
 
 * Organized monthly teleconference meetings on *Optimization Under Uncertainty* (15 participants) as part of the <a href = "https://www.mcs.anl.gov/MACSER/" target="_blank" style="text-decoration:none">DOE MACSER Project</a> (Nov. 2018 to Nov. 2020)
 
