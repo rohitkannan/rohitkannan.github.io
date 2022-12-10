@@ -15,7 +15,7 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 <li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate Partitioning-Based Algorithms for the Global Optimization of Nonconvex Quadratically-Constrained Quadratic Programs."</li>
 <li>R. Kannan, H. Nagarajan, and D. Deka. "Stochastic Unit Commitment with Reserve Saturation."</li>
 <li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. "Data-Driven Multistage Stochastic Optimization on Time Series."<br/>
-<a href = "https://github.com/rohitkannan/rohitkannan.github.io/presentations/Kannan_ICCOPT22_Multistage_ERSAA.pdf" target="_blank">[Slides]</a></li>
+<a href = "https://rohitkannan.github.io/presentations/Kannan_ICCOPT22_Multistage_ERSAA.pdf" target="_blank">[Slides]</a></li>
 <li>R. Kannan and P. I. Barton. "GOSSIP: Decomposition Software for the Global Optimization of Nonconvex Two-Stage Stochastic Mixed-Integer Nonlinear Programs."<br/>
 <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a></li>
 <li>R. Kannan and P. I. Barton. "Integrating Benders Decomposition and Lagrangian Relaxation for Solving Two-Stage Stochastic Mixed-Integer Nonlinear Programs."</li>
@@ -27,7 +27,7 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 <li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm," pp. 1-74. <br/>
 <a href = "http://psecommunity.org/LAPSE:2021.0798" target="_blank">[Preprint]</a></li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Residuals-based distributionally robust optimization with covariate information," pp. 1-44. Status: <i>Under Second Revision</i>. <br/>
-<a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a> <a href = "https://github.com/rohitkannan/rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a> <a href = "https://github.com/rohitkannan/ER-DRO" target="_blank">[Code]</a></li>
+<a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_ERDRO.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a> <a href = "https://github.com/rohitkannan/ER-DRO" target="_blank">[Code]</a></li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Data-driven sample average approximation with covariate information," pp. 1-57. Status: <i>Under Second Round of Review</i>. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/papers/KannanBayraksanLuedtke_Preprint_DDSAA.pdf" target="_blank">[PDF]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a></li>
 </ol>
