@@ -11,8 +11,10 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 
 <ol reversed>
 <li>M. Goutham, R. Kannan, D. Pasqualini, D. Deka, H. Nagarajan, and R. Bent, "Optimal Power Flow for Resilient Electric Grids under Uncertain Hurricane Forecasts: A Multistage Stochastic Programming Approach."</li>
-<li>E. M. Turan, J. Jäschke, and R. Kannan. "Accelerating the Cutting-Plane Method for Semi-Infinite Programming Using Parametric Sensitivity Theory."</li>
-<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate Partitioning-Based Algorithms for the Global Optimization of Nonconvex Quadratically-Constrained Quadratic Programs."</li>
+<li>E. M. Turan, J. Jäschke, and R. Kannan. "Accelerating the Cutting-Plane Method for Semi-Infinite Programming Using Parametric Sensitivity Theory."<br/>
+<a href = "https://plan.core-apps.com/aiche2022/event/72062a51d848b3b01e6d15aa9e0defb6" target="_blank">[Abstract]</a></li>
+<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate Partitioning-Based Algorithms for the Global Optimization of Nonconvex Quadratically-Constrained Quadratic Programs."<br/>
+<a href = "https://plan.core-apps.com/aiche2022/event/d98cb6e1bdac50c945a447aee4ef2bdf" target="_blank">[Abstract]</a></li>
 <li>R. Kannan, H. Nagarajan, and D. Deka. "Stochastic Unit Commitment with Reserve Saturation."</li>
 <li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke. "Data-Driven Multistage Stochastic Optimization on Time Series."<br/>
 <a href = "https://rohitkannan.github.io/presentations/Kannan_ICCOPT22_Multistage_ERSAA.pdf" target="_blank">[Slides]</a></li>
