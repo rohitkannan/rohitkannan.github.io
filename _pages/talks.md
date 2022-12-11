@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-Check out my CV <a href = "https://rohitkannan.github.io/files/RohitKannan_CV.pdf" target="_blank">here</a> for other talks I've given
+Check out <a href = "https://rohitkannan.github.io/files/RohitKannan_CV.pdf" target="_blank">my CV</a> for other talks I've given
 
 **Plenary**
 
