@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations"
+title: "Selected Presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+Check out my CV <a href = "https://rohitkannan.github.io/files/RohitKannan_CV.pdf" target="_blank">here</a> for other talks I've given
 
 **Plenary**
 
@@ -49,27 +50,23 @@ author_profile: true
 **Contributed**
 
 <ol reversed>
-<li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke, "Data-Driven Multistage Stochastic Optimization on Time Series", <i>AIChE Annual Meeting</i>, Nov. 2021. Session: Advances in Machine Learning & Intelligent Systems.</li>
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Data-Driven Sample Average Approximation with Covariate Information", <i>AIChE Annual Meeting</i>, Nov. 2021. Session: Design and Operations Under Uncertainty.</li>
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Residuals-Based Distributionally Robust Optimization with Covariate Information", <i>Robust Optimization Webinar</i>, April 2021. <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a></li>
-<li>R. Kannan, and P. I. Barton, "The Cluster Problem in Constrained Global Optimization", <i>AIChE Annual Meeting</i>, Nov. 2016. Session: Advances in Optimization. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE16_ClusterProblem.pdf" target="_blank">[Slides]</a></li>
-<li>R. Kannan, and P. I. Barton, "The Cluster Problem in Constrained Global Optimization", Thirteenth <i>Global Optimization Workshop</i>, Aug. 2016.</li>
-<li>R. Kannan, and P. I. Barton, "Convergence-Order Analysis of Branch-and-Bound Algorithms for Constrained Problems", <i>AIChE Annual Meeting</i>, Nov. 2015. Session: Advances in Optimization.</li>
-<li>P. I. Barton and R. Kannan, "A Decomposition Algorithm for Two-Stage Stochastic Mixed-Integer Nonconvex Programs", XXII <i>International Symposium on Mathematical Programming</i> (ISMP), July 2015.</li>
-<li>R. Kannan, and P. I. Barton, "A Software Framework for the Global Optimization of Nonconvex Two-Stage Stochastic Programs", <i>AIChE Annual Meeting</i>, Nov. 2015. Session: Software Tools and Implementations for PSE.</li>
-<li>R. Kannan, and P. I. Barton, "A Decomposition Strategy for a Class of of Nonconvex Two-Stage Stochastic Programs", <i>AIChE Annual Meeting</i>, Nov. 2014. Session: Design and Operations Under Uncertainty. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE14_MLR.pdf" target="_blank">[Slides]</a></li>
-<li>P. I. Barton and R. Kannan, "An Improved Lagrangian Relaxation Approach for Nonconvex Two-Stage Stochastic Programs", <i>INFORMS Annual Meeting</i>, Nov. 2014. Session: Chance, Inference and Robustness.</li>
+<li>R. Kannan, D. Deka, and H. Nagarajan, "Learning to Accelerate the Global Solution of Quadratically-Constrained Quadratic Programs," <i>AIChE Annual Meeting</i>, Nov. 2022. Session: Advances in Global Optimization.</li>
+<li>R. Kannan, E. M. Turan, and J. Jäschke, "Tighter Lower Bounds for Semi-Infinite Programming Using Parametric Sensitivity Theory," <i>AIChE Annual Meeting</i>, Nov. 2022. Session: Design and Operations Under Uncertainty.</li>
+<li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke, "Data-Driven Multistage Stochastic Optimization on Time Series," <i>AIChE Annual Meeting</i>, Nov. 2021. Session: Advances in Machine Learning & Intelligent Systems.</li>
+<li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Data-Driven Sample Average Approximation with Covariate Information," <i>AIChE Annual Meeting</i>, Nov. 2021. Session: Design and Operations Under Uncertainty.</li>
+<li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Residuals-Based Distributionally Robust Optimization with Covariate Information," <i>Robust Optimization Webinar</i>, April 2021. <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a></li>
+<li>R. Kannan, and P. I. Barton, "The Cluster Problem in Constrained Global Optimization," <i>AIChE Annual Meeting</i>, Nov. 2016. Session: Advances in Optimization. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE16_ClusterProblem.pdf" target="_blank">[Slides]</a></li>
+<li>R. Kannan, and P. I. Barton, "Convergence-Order Analysis of Branch-and-Bound Algorithms for Constrained Problems," <i>AIChE Annual Meeting</i>, Nov. 2015. Session: Advances in Optimization.</li>
+<li>R. Kannan, and P. I. Barton, "A Software Framework for the Global Optimization of Nonconvex Two-Stage Stochastic Programs," <i>AIChE Annual Meeting</i>, Nov. 2015. Session: Software Tools and Implementations for PSE.</li>
+<li>R. Kannan, and P. I. Barton, "A Decomposition Strategy for a Class of of Nonconvex Two-Stage Stochastic Programs," <i>AIChE Annual Meeting</i>, Nov. 2014. Session: Design and Operations Under Uncertainty. <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE14_MLR.pdf" target="_blank">[Slides]</a></li>
 </ol>
 
 
 **Poster**
 
 <ol reversed>
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Integrated Learning and Optimization", Third Annual Wisconsin Institute for Discovery Symposium, <i>University of Wisconsin-Madison</i>, Aug. 2020.</li>
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Predict, then Smart Optimize with Stochastic Programming", <i>IPAM Workshop on Intersections between Control, Learning and Optimization</i>, Feb. 2020. <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a></li>
-<li>R. Kannan and J. R. Luedtke, "A Stochastic Approximation Method for Chance-Constrained Nonlinear Programs", <i>AIChE Annual Meeting</i>, Nov. 2019. Session: Systems and Process Operations.</li>
-<li>R. Kannan, "Optimization and Control of Chemical Process Systems Under Uncertainty", <i>AIChE Annual Meeting</i>, Nov. 2019.</li>
-<li>R. Kannan and J. R. Luedtke, "Stochastic Approximation for Chance-Constrained NLPs", Computing in Engineering Forum, <i>University of Wisconsin-Madison</i>, Sept. 2019.</li>
-<li>R. Kannan and J. R. Luedtke, "Stochastic Approximation for Chance-Constrained NLPs", <i>ICERM Workshop on Optimization of Systems Impacted by Rare, High-Impact Random Events</i>, June 2019. <a href = "https://rohitkannan.github.io/presentations/Kannan_ICERM19_SAforCCP.pdf" target="_blank">[Poster]</a></li>
-<li>R. Kannan and J. R. Luedtke, "Optimizing Uncertain Systems with Reliability Requirements", Second Annual Wisconsin Institute for Discovery Symposium, <i>University of Wisconsin-Madison</i>, June 2019.</li>
+<li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Predict, then Smart Optimize with Stochastic Programming," <i>IPAM Workshop on Intersections between Control, Learning and Optimization</i>, Feb. 2020. <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a></li>
+<li>R. Kannan and J. R. Luedtke, "Stochastic Approximation for Chance-Constrained NLPs," Computing in Engineering Forum, <i>University of Wisconsin-Madison</i>, Sept. 2019.</li>
+<li>R. Kannan and J. R. Luedtke, "Stochastic Approximation for Chance-Constrained NLPs," <i>ICERM Workshop on Optimization of Systems Impacted by Rare, High-Impact Random Events</i>, June 2019. <a href = "https://rohitkannan.github.io/presentations/Kannan_ICERM19_SAforCCP.pdf" target="_blank">[Poster]</a></li>
+<li>R. Kannan and J. R. Luedtke, "Optimizing Uncertain Systems with Reliability Requirements," Second Annual Wisconsin Institute for Discovery Symposium, <i>University of Wisconsin-Madison</i>, June 2019.</li>
 </ol>
