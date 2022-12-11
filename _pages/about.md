@@ -20,31 +20,21 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 Recent News
 ======
 
-**November 2021:** Excited to announce that I will be presenting <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625276" target="_blank" style="text-decoration:none">the paper</a> *A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs* in the <span style="color: red">CAST Division Plenary</span> session at the 2021 AIChE Annual Meeting! I will also be presenting the following two papers at AIChE 2021:
-* *Data-Driven Multistage Stochastic Optimization on Time Series* in <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank" style="text-decoration:none">Advances in ML and Intelligent Systems</a>
-* *Data-Driven Sample Average Approximation with Covariate Information* in <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank" style="text-decoration:none">Design and Operations Under Uncertainty</a>
+**December 2022:** <span style="color: red">Excited to share</span> that my proposal to the 2023 LANL Applied ML Summer Program on "Using Graph Convolutional Neural Networks to Accelerate Solutions to Hard Nonconvex Optimization Problems" will be funded
 
-**October 2021:** I will be giving an invited talk on *Residuals-Based Distributionally Robust Optimization with Covariate Information* in <a href = "https://www.abstractsonline.com/pp8/#!/10390/session/478" target="_blank" style="text-decoration:none">Learning and Decision-Making with Contextual Information</a> at the 2021 INFORMS Annual Meeting
+**November 2022:** I gave two talks at the 2022 AIChE Annual Meeting
+* *Learning to Accelerate the Global Solution of Quadratically-Constrained Quadratic Programs* based on joint work with Deepjyoti Deka and Harsha Nagarajan
+* *Tighter Lower Bounds for Semi-Infinite Programming Using Parametric Sensitivity Theory* based on joint work with Evren Turan and Johannes Jäschke
 
-**May 2021:** I gave an invited talk on the paper *Stochastic DC Optimal Power Flow With Reserve Saturation* in the 2021 <a href = "https://web.cvent.com/event/def1e6af-670b-4920-a66f-1441511a61ce/summary" target="_blank" style="text-decoration:none">Los Alamos - Arizona Days</a> Conference
+**October 2022:** I chaired two sessions and gave a talk at the 2022 INFORMS Annual Meeting
+* Chaired *Learning-Assisted Dynamic Decision-Making Under Uncertainty* and *Global Optimization of Stochastic and Semi-Infinite Programs*
+* Gave a talk on *Integrating Time Series Predictions Within Multistage Stochastic Optimization*
 
-**April 2021:** I presented the paper *Residuals-Based Distributionally Robust Optimization with Covariate Information* in the Robust Optimization Webinar series <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a>
+**October 2022:** <span style="color: red">Excited</span> to begin working as a Co-Investigator on the LANL LDRD Proposal "Learning to Accelerate Global Solutions for Non-Convex Optimization"
 
-**March 2021:** I gave invited talks on *A Modular Framework for Integrating ML within Stochastic Optimization* to the ChemE Dept. at Clarkson and to the Mathematical Sciences Dept. at Florida Tech
+**July 2022:** I will be giving an invited talk on *Data-Driven Multistage Stochastic Optimization on Time Series* in a Session on Multistage Stochastic/Robust Optimization at ICCOPT'22
 
-**February 2021:** I gave an invited seminar on *A Modular Framework for Integrating ML within Stochastic Optimization* to the Systems & Industrial Engineering Dept. at the University of Arizona
-
-**January 2021:** <span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on Heteroscedasticity-Aware Machine Learning Approaches for Contextual Stochastic Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2021/01/8201.pdf" target="_blank">[PDF]</a>
-
-**December 2020:** <span style="color: red">Excited to share</span> that I have joined the <a href = "https://lanl-ansi.github.io/" target="_blank" style="text-decoration:none">Advanced Network Science Initiative</a> group at Los Alamos National Lab as a <a href = "https://cnls.lanl.gov/External/" target="_blank" style="text-decoration:none">Center for Nonlinear Studies</a> Postdoctoral Fellow.
-
-<span style="color: red">New work</span> with Guzin Bayraksan and Jim Luedtke on combining Machine Learning with Distributionally Robust Optimization is now available on Optimization Online <a href = "http://www.optimization-online.org/DB_FILE/2020/11/8136.pdf" target="_blank">[PDF]</a>
-
-**November 2020:** I presented two papers at the virtual 2020 INFORMS Annual Meeting
-* *Data-driven SAA with Covariate Information* in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2220" target="_blank" style="text-decoration:none">Data, Statistics and Learning in Energy System Optimization</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a>
-* *Stochastic DC-OPF with Reserve Saturation* in <a href = "https://www.abstractsonline.com/pp8/#!/9022/session/2845" target="_blank" style="text-decoration:none">Optimization in Energy Systems under Uncertainty</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a>
-
-**October 2020:** Paper on using *Stochastic Approximation for Chance-Constrained Nonlinear Programs* has been accepted for publication in *Mathematical Programming Computation* <a href = "https://arxiv.org/abs/1812.07066" target="_blank">[Preprint]</a>
+**May 2022:** <span style="color: red">Excited</span> to begin working with Mithun Goutham (Ph.D. student at OSU) on "Modeling the resilience of the power grid to hurricanes using multistage stochastic programming"
 
 
 You can find older news items [here](https://rohitkannan.github.io/news/)
