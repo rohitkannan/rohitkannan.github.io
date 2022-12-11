@@ -20,23 +20,23 @@ Check out my CV <a href = "https://rohitkannan.github.io/files/RohitKannan_CV.pd
 **Plenary**
 
 <ol reversed>
-<li>R. Kannan and J. R. Luedtke, "A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs", CAST Division Plenary, <i>AIChE Annual Meeting</i>, Nov. 2021.</li>
-<li>R. Kannan and P. I. Barton, "GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs", CAST Division Plenary, <i>AIChE Annual Meeting</i>, Nov. 2016.</li>
+<li>R. Kannan and J. R. Luedtke, "A stochastic approximation method for approximating the efficient frontier of chance-constrained nonlinear programs," CAST Division Plenary, <i>AIChE Annual Meeting</i>, Nov. 2021.</li>
+<li>R. Kannan and P. I. Barton, "GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs," CAST Division Plenary, <i>AIChE Annual Meeting</i>, Nov. 2016.</li>
 </ol>
 
 
 **Invited**
 
 <ol reversed>
-<li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke, "Data-Driven Multistage Stochastic Optimization on Time Series," Seventh <i>International Conference on Continuous Optimization</i> (ICCOPT), July 2022. Session: Multistage Stochastic/Robust Optimization.</li>
-<li>R. Kannan, "Learning-Assisted Data-Driven Optimization Under Uncertainty," School of Mathematics, <i>University of Edinburgh</i>, April 2022.</li>
+<li>R. Kannan, N. Ho-Nguyen, and J. R. Luedtke, "Data-Driven Multistage Stochastic Optimization on Time Series," Seventh <i>International Conference on Continuous Optimization</i> (ICCOPT), July 2022. <br/> Session: Multistage Stochastic/Robust Optimization.</li>
+<li>R. Kannan, "Learning-Assisted Data-Driven Optimization Under Uncertainty," School of Mathematics, <br/> <i>University of Edinburgh</i>, April 2022.</li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Residuals-Based Distributionally Robust Optimization with Covariate Information," <i>INFORMS Annual Meeting</i>, Oct. 2021. Session: Learning and Decision-Making with Contextual Information.</li>
 <li>R. Kannan, "A Modular Framework for Integrating Machine Learning within Stochastic Optimization," Systems and Industrial Engineering Department, <i>University of Arizona</i>, Feb. 2021.</li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Data-Driven Sample Average Approximation with Covariate Information," <i>INFORMS Annual Meeting</i>, Nov. 2020. Session: Data, Statistics and Learning in Energy Systems Optimization. <a href = "https://rohitkannan.github.io/presentations/Kannan_Argonne_September_2020.pdf" target="_blank">[Slides]</a></li>
-<li>R. Kannan, J. R. Luedtke, and L. A. Roald, "Stochastic DC Optimal Power Flow With Reserve Saturation," <i>INFORMS Annual Meeting</i>, Nov. 2020. Session: Optimization in Energy Systems Under Uncertainty. <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a></li>
+<li>R. Kannan, J. R. Luedtke, and L. A. Roald, "Stochastic DC Optimal Power Flow With Reserve Saturation," <br/> <i>INFORMS Annual Meeting</i>, Nov. 2020. Session: Optimization in Energy Systems Under Uncertainty. <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_SDCOPF.pdf" target="_blank">[Slides]</a></li>
 <li>R. Kannan, "Data-Driven Stochastic Optimization with Covariate Information," Mathematics and Computer Science Division, <i>Argonne National Laboratory</i>, Sep. 2020. <a href = "https://rohitkannan.github.io/presentations/Kannan_Argonne_September_2020.pdf" target="_blank">[Slides]</a></li>
 <li>R. Kannan, G. Bayraksan, and J. R. Luedtke, "Predict, then Smart Optimize with Stochastic Programming," <i>IPAM Workshop on Intersections between Control, Learning and Optimization</i>, Feb. 2020. <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_Presentation.pdf" target="_blank">[Slides]</a></li>
-<li>R. Kannan and P. I. Barton, "GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs," <i>INFORMS Annual Meeting</i>, Nov. 2018. Session: Computational Stochastic Programming. <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a></li>
+<li>R. Kannan and P. I. Barton, "GOSSIP: decomposition software for the Global Optimization of nonconvex two-Stage Stochastic mixed-Integer nonlinear Programs," <i>INFORMS Annual Meeting</i>, Nov. 2018. <br/> Session: Computational Stochastic Programming. <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS18_GOSSIP.pdf" target="_blank">[Slides]</a></li>
 <li>R. Kannan, "Algorithms, Analysis, and Software for the Global Optimization of Chemical Process Systems Under Uncertainty," <i>Lawrence Berkeley National Laboratory</i>, Nov. 2017. <a href = "https://rohitkannan.github.io/presentations/Kannan_LBNL17.pdf" target="_blank">[Slides]</a></li>
 <li>R. Kannan and P. I. Barton, "Convergence-Order Analysis of Lower Bounding Schemes for Constrained Global Optimization Problems," Fifth <i>International Conference on Continuous Optimization</i> (ICCOPT), Aug. 2016. <br/> Session: Advances in Deterministic Global Optimization. <a href = "https://rohitkannan.github.io/presentations/Kannan_ICCOPT16_ConvergenceOrder.pdf" target="_blank">[Slides]</a></li>
 </ol>
