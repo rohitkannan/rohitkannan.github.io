@@ -11,13 +11,11 @@ author_profile: true
 * *Learning to Accelerate the Global Solution of Quadratically-Constrained Quadratic Programs* based on joint work with Deepjyoti Deka and Harsha Nagarajan
 * *Tighter Lower Bounds for Semi-Infinite Programming Using Parametric Sensitivity Theory* based on joint work with Evren Turan and Johannes Jäschke
 
-**October 2022:** I chaired two sessions and gave a talk at the 2022 INFORMS Annual Meeting
-* Chaired *Learning-Assisted Dynamic Decision-Making Under Uncertainty* and *Global Optimization of Stochastic and Semi-Infinite Programs*
-* Gave a talk on *Integrating Time Series Predictions Within Multistage Stochastic Optimization*
+**October 2022:** I chaired two sessions on "*Learning-Assisted Dynamic Decision-Making Under Uncertainty*" and "*Global Optimization of Stochastic and Semi-Infinite Programs*" at the 2022 INFORMS Annual Meeting
 
-**October 2022:** <span style="color: red">Excited</span> to begin working as a Co-Investigator on the LANL LDRD Proposal "Learning to Accelerate Global Solutions for Non-Convex Optimization"
+**October 2022:** <span style="color: red">Excited</span> to begin working as a Co-Investigator on the LANL LDRD project "Learning to Accelerate Global Solutions for Non-Convex Optimization"
 
-**July 2022:** I will be giving an invited talk on *Data-Driven Multistage Stochastic Optimization on Time Series* in a Session on Multistage Stochastic/Robust Optimization at ICCOPT'22
+**July 2022:** I gave an invited talk on *Data-Driven Multistage Stochastic Optimization on Time Series* in a Session on Multistage Stochastic/Robust Optimization at ICCOPT'22
 
 **May 2022:** <span style="color: red">Excited</span> to begin working with Mithun Goutham (Ph.D. student at OSU) on "Modeling the resilience of the power grid to hurricanes using multistage stochastic programming"
 
@@ -29,7 +27,7 @@ author_profile: true
 * *Data-Driven Multistage Stochastic Optimization on Time Series* in <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625278" target="_blank" style="text-decoration:none">Advances in ML and Intelligent Systems</a>
 * *Data-Driven Sample Average Approximation with Covariate Information* in <a href = "https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/625277" target="_blank" style="text-decoration:none">Design and Operations Under Uncertainty</a>
 
-**October 2021:** I will be giving an invited talk on *Residuals-Based Distributionally Robust Optimization with Covariate Information* in <a href = "https://www.abstractsonline.com/pp8/#!/10390/session/478" target="_blank" style="text-decoration:none">Learning and Decision-Making with Contextual Information</a> at the 2021 INFORMS Annual Meeting
+**October 2021:** I gave an invited talk on *Residuals-Based Distributionally Robust Optimization with Covariate Information* in <a href = "https://www.abstractsonline.com/pp8/#!/10390/session/478" target="_blank" style="text-decoration:none">Learning and Decision-Making with Contextual Information</a> at the 2021 INFORMS Annual Meeting
 
 **May 2021:** I gave an invited talk on the paper *Stochastic DC Optimal Power Flow With Reserve Saturation* in the 2021 <a href = "https://web.cvent.com/event/def1e6af-670b-4920-a66f-1441511a61ce/summary" target="_blank" style="text-decoration:none">Los Alamos - Arizona Days</a> Conference
 
