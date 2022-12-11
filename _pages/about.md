@@ -20,13 +20,13 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 Recent News
 ======
 
-**December 2022:** <span style="color: red">Excited to share</span> that my proposal to the 2023 LANL Applied ML Summer Program on "Using Graph Convolutional Neural Networks to Accelerate Solutions to Hard Nonconvex Optimization Problems" will be funded
+**December 2022:** <span style="color: red">Excited to share</span> that my proposal on "Using Graph Convolutional Neural Networks to Accelerate Solutions to Nonconvex Optimization Problems" will be funded by the 2023 LANL Applied ML Summer Research Fellowship Program
 
-**November 2022:** I gave two talks at the 2022 AIChE Annual Meeting
+**November 2022:** I gave the following two talks at the 2022 AIChE Annual Meeting:
 * *Learning to Accelerate the Global Solution of Quadratically-Constrained Quadratic Programs* based on joint work with Deepjyoti Deka and Harsha Nagarajan
 * *Tighter Lower Bounds for Semi-Infinite Programming Using Parametric Sensitivity Theory* based on joint work with Evren Turan and Johannes Jäschke
 
-**October 2022:** I chaired two sessions on "*Learning-Assisted Dynamic Decision-Making Under Uncertainty*" and "*Global Optimization of Stochastic and Semi-Infinite Programs*" at the 2022 INFORMS Annual Meeting
+**October 2022:** I chaired two sessions on "*Learning-Assisted Dynamic Decision-Making Under Uncertainty*" and <br/> "*Global Optimization of Stochastic and Semi-Infinite Programs*" at the 2022 INFORMS Annual Meeting
 
 **October 2022:** <span style="color: red">Excited</span> to begin working as a Co-Investigator on the LANL LDRD project "Learning to Accelerate Global Solutions for Non-Convex Optimization"
 
