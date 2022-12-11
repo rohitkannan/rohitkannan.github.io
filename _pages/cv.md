@@ -45,8 +45,8 @@ Service
 
 **Student Mentorship**
 
-* Mithun Goutham, "Stochastic Optimization Models for Enhancing the Resilience of the Power Grid," Summer Student at the Center for Nonlinear Studies, Los Alamos National Laboratory, 2022
-* Avinash Subramanian, "<a href = "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787182" target="_blank" style="text-decoration:none">Optimization under Uncertainty of Hybrid Feedstock Polygeneration Systems</a>," Ph.D. Student, Department of Energy & Process Engineering, Norwegian University of Science and Technology (NTNU), 2021.
+* Mithun Goutham, "Stochastic Optimization Models for Enhancing the Resilience of the Power Grid," <br/> Summer Student at the Center for Nonlinear Studies, LANL, 2022. <br/> Co-Mentors: Harsha Nagarajan and Deepjyoti Deka
+* Avinash Subramanian, "<a href = "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2776364" target="_blank" style="text-decoration:none">Optimization under Uncertainty of Hybrid Feedstock Polygeneration Systems</a>," <br/> Ph.D. Student, Dept. of Energy & Process Engineering, NTNU, 2021. <br/> Advisors: Truls Gundersen and Thomas A. Adams II
 
 **Committees and Editorial Service**
 
