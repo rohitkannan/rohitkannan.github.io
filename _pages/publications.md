@@ -24,7 +24,7 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 **Submitted**
 
 <ol reversed>
-<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate Partitioning Algorithms for the Global Optimization of Nonconvex Quadratically-Constrained Quadratic Programs."<br/>
+<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate Partitioning Algorithms for the Global Optimization of Nonconvex Quadratically-Constrained Quadratic Programs," pp. 1-26. <br/>
 <a href = "https://arxiv.org/abs/2301.00306" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE22_Learning_for_QCQPs.pdf" target="_blank">[Slides]</a> </li>
   
 <li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm," pp. 1-74. <br/>
