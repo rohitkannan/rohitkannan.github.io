@@ -20,7 +20,7 @@ I am broadly interested in **data-driven decision-making under uncertainty** wit
 Recent News
 ======
 
-**December 2022:** <span style="color: red">New work</span> with Harsha Nagarajan and Deepjyoti Deka on "Learning to Accelerate the Global Optimization of Nonconvex QCQPs" is now up on arXiv! <a href = "https://arxiv.org/abs/2301.00306" target="_blank" style="text-decoration:none">PDF</a>
+**December 2022:** <span style="color: red">New work</span> with Harsha Nagarajan and Deepjyoti Deka on "Learning to Accelerate the Global Optimization of Nonconvex QCQPs" is now up on arXiv! <a href = "https://arxiv.org/abs/2301.00306" target="_blank" style="text-decoration:none">[PDF]</a>
 
 <span style="color: red">Happy to share</span> that my proposal on "Using Graph Convolutional Neural Networks to Accelerate Solutions to Nonconvex Optimization Problems" will be funded by the 2023 LANL Applied ML Summer Research Fellowship Program
 
