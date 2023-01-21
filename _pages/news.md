@@ -5,7 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
-**December 2022:** <span style="color: red">Excited to share</span> that my proposal on "Using Graph Convolutional Neural Networks to Accelerate Solutions to Nonconvex Optimization Problems" will be funded by the 2023 LANL Applied ML Summer Research Fellowship Program
+**December 2022:** <span style="color: red">New work</span> with Harsha Nagarajan and Deepjyoti Deka on "Learning to Accelerate the Global Optimization of Nonconvex QCQPs" is now up on arXiv! <a href = "https://arxiv.org/abs/2301.00306" target="_blank" style="text-decoration:none">[PDF]</a>
+
+<span style="color: red">Happy to share</span> that my proposal on "Using Graph Convolutional Neural Networks to Accelerate Solutions to Nonconvex Optimization Problems" will be funded by the 2023 LANL Applied ML Summer Research Fellowship Program
 
 **November 2022:** I gave the following two talks at the 2022 AIChE Annual Meeting:
 * *Learning to Accelerate the Global Solution of Quadratically-Constrained Quadratic Programs* based on joint work with Deepjyoti Deka and Harsha Nagarajan
