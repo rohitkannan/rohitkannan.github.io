@@ -22,10 +22,10 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 **Submitted**
 
 <ol reversed>
-<li>E. M. Turan, J. Jäschke, and R. Kannan. "Accelerating the Cutting-Plane Method for Semi-Infinite Programming Using Parametric Sensitivity Theory."<br/>
-<a href = "https://arxiv.org/abs/2303.00219" target="_blank">[Preprint]</a>
+<li>E. M. Turan, J. Jäschke, and R. Kannan. "Optimality-Based Discretization Methods for the Global Optimization of Nonconvex Semi-Infinite Programs," pp. 1-22. <br/>
+<a href = "https://arxiv.org/abs/2303.00219" target="_blank">[Preprint]</a> </li>
   
-<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate Partitioning Algorithms for the Global Optimization of Nonconvex Quadratically-Constrained Quadratic Programs," pp. 1-26. <br/>
+<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate the Global Optimization of Quadratically-Constrained Quadratic Programs," pp. 1-27. <br/>
 <a href = "https://arxiv.org/abs/2301.00306" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE22_Learning_for_QCQPs.pdf" target="_blank">[Slides]</a> </li>
   
 <li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm," pp. 1-74. <br/>
