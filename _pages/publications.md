@@ -22,19 +22,19 @@ Access my Google Scholar profile <a href = "https://scholar.google.com/citations
 **Submitted**
 
 <ol reversed>
-<li>E. M. Turan, J. Jäschke, and R. Kannan. "Optimality-Based Discretization Methods for the Global Optimization of Nonconvex Semi-Infinite Programs," pp. 1-22. <i>Under First Round of Review.</i> <br/>
+<li>E. M. Turan, J. Jäschke, and R. Kannan. "Optimality-Based Discretization Methods for the Global Optimization of Nonconvex Semi-Infinite Programs," pp. 1-22. <br/> Status: <i>Under First Review.</i> <br/>
 <a href = "https://arxiv.org/abs/2303.00219" target="_blank">[Preprint]</a> </li>
   
-<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate the Global Optimization of Quadratically-Constrained Quadratic Programs," pp. 1-27. <i>Under First Round of Review.</i>. <br/>
+<li>R. Kannan, D. Deka, and H. Nagarajan. "Learning to Accelerate the Global Optimization of Quadratically-Constrained Quadratic Programs," pp. 1-27. <br/> Status: <i>Under First Review.</i> <br/>
 <a href = "https://arxiv.org/abs/2301.00306" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_AIChE22_Learning_for_QCQPs.pdf" target="_blank">[Slides]</a> </li>
   
-<li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm," pp. 1-74. <i>Under First Round of Review.</i>. <br/>
+<li>A. S. R. Subramanian, R. Kannan, F. Holtorf, T. A. Adams II, T. Gundersen, and P. I. Barton. "Optimization under uncertainty of a hybrid waste tire and natural gas feedstock flexible polygeneration system using a decomposition algorithm," pp. 1-74. <br/> Status: <i>Under First Review.</i> <br/>
 <a href = "http://psecommunity.org/LAPSE:2021.0798" target="_blank">[Preprint]</a></li>
 
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Residuals-based distributionally robust optimization with covariate information," pp. 1-44. Status: <i>Under Third Round of Review</i>. <br/>
+<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Residuals-based distributionally robust optimization with covariate information," pp. 1-44. <br/> Status: <i>Under Third Review</i>. <br/>
 <a href = "https://arxiv.org/abs/2012.01088" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_ROW21_ERDRO.pdf" target="_blank">[Slides]</a> <a href = "https://github.com/rohitkannan/ER-DRO" target="_blank">[Code]</a></li>
 
-<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Data-driven sample average approximation with covariate information," pp. 1-57. Status: <i>Under Second Revision</i>. <br/>
+<li>R. Kannan, G. Bayraksan, and J. R. Luedtke. "Data-driven sample average approximation with covariate information," pp. 1-57. <br/> Status: <i>Under Second Revision</i>. <br/>
 <a href = "http://www.optimization-online.org/DB_HTML/2020/07/7932.html" target="_blank">[Preprint]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_INFORMS20_DDSAA.pdf" target="_blank">[Slides]</a> <a href = "https://rohitkannan.github.io/presentations/Kannan_IPAM20_DDSAA.pdf" target="_blank">[Poster]</a> <a href = "https://github.com/rohitkannan/DD-SAA" target="_blank">[Code]</a></li>
 </ol>
 
