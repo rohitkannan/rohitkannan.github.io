@@ -597,13 +597,13 @@ ol.papers li{
 
 
 .mitlogo {
-  background: url('/samplewebsite/img/MIT_logo_resized-2.svg') no-repeat 0px 10px transparent;
+  background: url('/img/MIT_logo_resized-2.svg') no-repeat 0px 10px transparent;
   list-style-type: none;
   margin-left: 0px;
 }
 
 .iitlogo {
-  background: url('/samplewebsite/img/IITM_logo_resized.svg') no-repeat 0px 5px transparent;
+  background: url('/img/IITM_logo_resized.svg') no-repeat 0px 5px transparent;
   list-style-type: none;
   margin-left: 0px;
   background-size: 42px;
