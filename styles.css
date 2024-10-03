@@ -1254,6 +1254,13 @@ nav#navbar-main li {
   font-size: 16px;
 }
 
+@media (max-width: 768px) {
+    /* Show the toggle button and hide the menu */
+    .navbar-toggle {
+      display:block
+    }
+}
+
 .navbar-default .navbar-nav>li>a,
 .navbar-default .navbar-nav>a:focus,
 .navbar-default .navbar-nav>a:hover {
@@ -1389,6 +1396,14 @@ nav#navbar-main li {
     display: none !important;
   }
 
+  @media {
+    collapse.navbar-collapse.show{
+      display: block;
+    }
+    
+  }
+
+  
   .navbar-nav {
     float: none !important;
     margin-top: 7.5px;
