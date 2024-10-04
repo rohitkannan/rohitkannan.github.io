@@ -1266,7 +1266,7 @@ nav#navbar-main li {
   font-size: 16px;
 }
 
-/*  @media (max-width: 768px) {
+/* @media (max-width: 768px) {
     /* Show the toggle button and hide the menu */
     .navbar-toggle {
       display:block
@@ -1408,12 +1408,12 @@ nav#navbar-main li {
     display: none !important;
   }
 
-/*   @media {
+/* @media {
     collapse.navbar-collapse.show{
       display: block;
-    } */
+    } 
     
-  }
+  } */
 
   
   .navbar-nav {
