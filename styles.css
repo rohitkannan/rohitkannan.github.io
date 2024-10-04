@@ -1486,13 +1486,13 @@ table {
   font-size: 0.93rem;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   table, 
   table tr, 
   table td {
     display: block;
     width: 100%;
-  }
+  } */
 
 
 
