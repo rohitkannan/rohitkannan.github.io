@@ -587,8 +587,20 @@ div.teaching-outreach p{
   padding-right: 20px !important;
 }
 
+@media (max-width:768px){
+  .projects-text{
+  width: 100%; 
+  }
+}
+
 .projects-img{ 
   border-top: none !important;
+}
+
+@media (max-width:768px){
+  .projects-img{
+  width: 100%; 
+  }
 }
 
 ol.papers li{
