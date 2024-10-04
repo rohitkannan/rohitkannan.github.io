@@ -214,7 +214,7 @@ blockquote p:last-child {
  .item-for-media{
     display:none;
   }
-  
+
  .mobile-nav{
     margin-left: -28px;
     margin-top: 10px;
@@ -587,21 +587,9 @@ div.teaching-outreach p{
   padding-right: 20px !important;
 }
 
-/* @media (max-width:768px){
-  .projects-text{
-  width: 100%; 
-  }
-} */
-
 .projects-img{ 
   border-top: none !important;
 }
-
-/* @media (max-width:768px){
-  .projects-img{
-  width: 100%; 
-  }
-} */
 
 ol.papers li{
   margin-top: 10px;
@@ -1266,13 +1254,6 @@ nav#navbar-main li {
   font-size: 16px;
 }
 
-/* @media (max-width: 768px) {
-    /* Show the toggle button and hide the menu */
-    .navbar-toggle {
-      display:block
-    }
-} */
-
 .navbar-default .navbar-nav>li>a,
 .navbar-default .navbar-nav>a:focus,
 .navbar-default .navbar-nav>a:hover {
@@ -1408,14 +1389,6 @@ nav#navbar-main li {
     display: none !important;
   }
 
-/* @media {
-    collapse.navbar-collapse.show{
-      display: block;
-    } 
-    
-  } */
-
-  
   .navbar-nav {
     float: none !important;
     margin-top: 7.5px;
@@ -1485,16 +1458,6 @@ table {
   margin-bottom: 1rem;
   font-size: 0.93rem;
 }
-
-/* @media (max-width: 768px) {
-  table, 
-  table tr, 
-  table td {
-    display: block;
-    width: 100%;
-  } */
-
-
 
 table > thead > tr > th,
 table > tbody > tr > th,
