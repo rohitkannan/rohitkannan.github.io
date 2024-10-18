@@ -591,6 +591,20 @@ div.teaching-outreach p{
   border-top: none !important;
 }
 
+.mobile-view {
+        display: none;
+    }
+
+    /* Display the mobile view and hide the desktop view for screens smaller than 768px */
+    @media (max-width: 768px) {
+        .desktop-view {
+            display: none;
+        }
+        .mobile-view {
+            display: block;
+        }
+    }
+
 ol.papers li{
   margin-top: 10px;
 }
