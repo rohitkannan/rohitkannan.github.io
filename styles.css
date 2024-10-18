@@ -604,13 +604,15 @@ div.teaching-outreach p{
             display: block;
             
         }
-      mobile-view-second-img{
-          width: 50%;
-          margin-top: 20px;
-          margin-left: 70px; 
-          margin-bottom:20px;
-      }
+     
     }
+
+ mobile-view-second-img{
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 70px; 
+    margin-bottom:20px;
+      }
 
 ol.papers li{
   margin-top: 10px;
