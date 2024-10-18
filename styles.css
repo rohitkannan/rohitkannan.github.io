@@ -602,11 +602,14 @@ div.teaching-outreach p{
         }
         .mobile-view {
             display: block;
-            width: 50%;
-            margin-top: 20px;
-            margin-left: 70px; 
-            margin-bottom:20px;
+            
         }
+      mobile-view-second-img{
+          width: 50%;
+          margin-top: 20px;
+          margin-left: 70px; 
+          margin-bottom:20px;
+      }
     }
 
 ol.papers li{
