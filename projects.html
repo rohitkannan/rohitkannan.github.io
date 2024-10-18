@@ -143,7 +143,8 @@
 
                   
                <h3 style="margin-bottom: 20px;">Enhancing the Resilience of the Power Grid to Extreme Weather Events</h3> 
-               <img src="img/grid_resilience.png">
+               <div class="desktop-view">
+                  <img src="img/grid_resilience.png">
                   <table class="table" style="width:100%">   
                      <tr>
                         <td class="projects-img">
@@ -158,8 +159,22 @@
                         </td>
                      </tr>
                     </table>
+               </div>
+
+               <div class="mobile-view">
+                     <img src="img/grid_resilience.png">
+                     <img src="img/dorian.png" class=mobile-view-second-img>
+                     <p>
+                        This project aims to leverage ensemble forecasts of extreme weather events (such as hurricanes and winter storms) to make proactive grid operation decisions and mitigate power outages. 
+                        We model the operational resilience of the grid using multistage stochastic programming and use stochastic dual dynamic programming to joinly optimize anticipative and restorative actions.
+                        Our preliminary results show that using hurricane forecasts to make proactive decisions can reduce load shed by up to 5% on average!    
+                     </p>
+               </div>
+
+                  
                <h3 style="margin-bottom: 20px;">Integrating Machine Learning Predictions Within Stochastic Optimization</h3>
-               <img src="img/supply_chain.png" style="display: block; margin: 0 auto;">
+               <div class="desktop-view">
+                  <img src="img/supply_chain.png" style="display: block; margin: 0 auto;">
                   <table class="table" style="width:100%; margin-top: 10px;">
                      <tr>
                         <td class="projects-text">
@@ -175,8 +190,27 @@
                            <img src="img/ddsaa.png">
                         </td>
                      </tr>
-                  </table>        
+                  </table>    
+               </div>
+
+               <div class="mobile-view">
+                     <img src="img/supply_chain.png">
+                     <img src="img/ddsaa.png" class=mobile-view-second-img>
+                     <p>
+                        Uncertain parameters in optimization models can often be predicted using covariate information. 
+                              For instance, product demands can be estimated using seasonality, historical data, and web search results for use in a supply chain model. 
+                              We investigate a flexible framework for data-driven decision-making under uncertainty that integrates an ML prediction model and its residuals within a sample average approximation, 
+                              and identify conditions for convergence as the sample size increases. 
+                              Our numerical experiments demonstrate the advantages of our data-driven formulations in the limited data regime.    
+                     </p>
+               </div>
+
+
+                  
+
+                  
                <h3 style="margin-bottom: 20px;">Algorithms for Nonconvex Stochastic Programming</h3>
+               <div class="desktop-view">
                <img src="img/polygen.png" width="600" style="display: block; margin: 0 auto;">
                   <table class="table" style="width:100%">   
                      <tr>
@@ -193,7 +227,24 @@
                         </td>
                      </tr>
                     </table>
+               </div>
+
+               <div class="mobile-view">
+                     <img src="img/polygen.png">
+                     <img src="img/gossip_sarawak.png" class=mobile-view-second-img>
+                     <p>
+                       Two-stage stochastic mixed-integer nonlinear programs (MINLPs) are widely used for optimization under uncertainty in areas like energy, finance, and supply chain management. 
+                              These models are difficult to solve due to nonconvex constraints and discrete decision variables. 
+                              We design a decomposition algorithm and a software for two-stage stochastic MINLPs. 
+                              In collaboration with NTNU, we have used it to design a hybrid waste tire and natural gas polygeneration system, achieving a 100% increase in expected net present value over a nominal design.
+                           
+                     </p>
+               </div>
+
+
+                  
                <h3 style="margin-bottom: 20px;">Convergence Rate of Branch-and-Bound Algorithms</h3>
+               <div class="desktop-view">
                   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
                       <img src="img/cluster1.png" width="100%">
                       <img src="img/cluster2.png" width="100%">
@@ -217,6 +268,25 @@
                         </td>
                      </tr>
                   </table> 
+               </div>
+               <div class="mobile-view">
+                     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+                      <img src="img/cluster1.png" width="100%">
+                      <img src="img/cluster2.png" width="100%">
+                      <img src="img/cluster3.png" width="100%">
+                  </div>
+                     <img src="img/convorder.png" class=mobile-view-second-img>
+                     <p>
+                        Branch-and-bound (B&B) algorithms are the primary framework for solving nonconvex problems to global optimality. 
+                              However, a major drawback is that they can require an exponential number of iterations relative to the search space dimension to converge. 
+                              Reduced-space B&B algorithms attempt to address this by branching on a lower-dimensional subspace, but their convergence rate remains poorly understood. 
+                              We analyze the convergence rate of B&B algorithms and find that reduced-space methods may be impractical without the use of auxiliary domain reduction techniques to speed up convergence.
+                           
+                     </p>
+               </div>
+
+
+               
                <!--                  
                     <table class="table" style="width:100%"> 
                      <tr>
