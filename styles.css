@@ -1706,9 +1706,9 @@ body.dark {
 }
 
 .student-container img {
-    width: 80px;  /* Adjust size as needed */
-    height: 80px; /* Keep it square */
-    border-radius: 50%; /* Make it circular */
+    width: 120px;  /* Adjust size as needed */
+    height: 120px; /* Keep it square */
+/*     border-radius: 50%; /* Make it circular */ */
     object-fit: cover;
     margin-right: 15px; /* Space between image and text */
 }
