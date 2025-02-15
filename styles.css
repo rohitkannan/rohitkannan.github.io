@@ -1707,12 +1707,12 @@ body.dark {
 
 .student-container img {
     width: 120px;  /* Adjust size as needed */
-    height: 120px; /* Keep it square */
+    height: auto; /* Keep it square */
 /*     border-radius: 50%; /* Make it circular */ */
     object-fit: cover;
     margin-right: 15px; /* Space between image and text */
 }
 
 .student-info {
-    font-size: 16px;
+    font-size: inherit;
 }
