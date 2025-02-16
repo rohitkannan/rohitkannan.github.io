@@ -1706,11 +1706,11 @@ body.dark {
 }
 
 .student-container img {
-    width: 120px;  /* Adjust size as needed */
+    width: 160px;  /* Adjust size as needed */
     height: auto; /* Keep it square */
 /*     border-radius: 50%; /* Make it circular */ */
     object-fit: cover;
-    margin-right: 15px; /* Space between image and text */
+    margin-right: 30px; /* Space between image and text */
 }
 
 .student-info {
